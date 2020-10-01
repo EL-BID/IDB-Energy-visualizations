@@ -1,0 +1,66 @@
+    /** Styles for the small legend about the units used **/ 
+    .UnitLegend {
+        fill: #404040;
+        font: bold 10px arial,helvetica,sans-serif;
+    }
+
+
+    /** Overwrite some styles for the square chart **/
+    #squarechart .square { /* Default color for the squares */ 
+        fill:rgb(0, 0, 0);
+
+    }
+
+    #squarechart .label { /* Styles for the labels inside the squares */ 
+        fill : rgb(255,255,255);
+        font-weight: bold;
+        font-family: arial,helvetica,sans-serif;
+        font-size: 12px;
+    }
+
+    #squarechart .square.selected { /* Styles for the selected squares */
+        stroke: rgb(100,100,100);
+        stroke-width: 1;
+    }
+
+    #squarechart text.label.selected { /* Styles for the labels inside the squares */ 
+        visibility: hidden;
+    }
+
+    #squarechart .callout { /* Styles for the callout balloons (hidden by default) */
+        visibility: hidden;
+        pointer-events: none;
+    }
+
+    #squarechart .callout.selected { /* Styles for the callout balloons for selected squares */
+        visibility: visible;
+    }
+
+    #squarechart .callout text { /* Styles for the text of callout balloons */
+        fill: rgb(30,30,30);
+        font-weight: normal;
+        font-family: arial,helvetica,sans-serif;
+        font-size: 10 px;
+    }
+
+    #squarechart .callout path { /* Styles for the text of callout balloons */
+        fill: rgb(245,245,245);
+        stroke: rgb(235,235,235);
+        /*stroke-width:2;*/
+    }
+
+    /** Styles for the legend box **/
+    #legenddiv {
+        position: absolute;
+        top: 100px;
+        left: 10px;
+        z-index: 10;
+        visibility: hidden;
+    }
+
+    .legend text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:11px;
+    }
+
+

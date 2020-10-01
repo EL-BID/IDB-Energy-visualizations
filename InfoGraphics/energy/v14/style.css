@@ -1,0 +1,125 @@
+    /** colors for the chart decorations **/
+    .axis path{ 
+        fill:none;
+        stroke-width: 1;
+        stroke: #707070; 
+    }
+    .axis text { 
+        font-size:11px;
+        font-family:arial,helvetica,sans-serif; 
+        fill: #707070;
+        stroke: none;
+    }
+    .tick { 
+        fill: none;
+        stroke:none; 
+    }
+    .gridlines .tick {
+        stroke: #C0C0C0;
+    }
+    /** Colors for the bars **/
+    .Imported {
+        opacity: 0.8;        
+    }
+    .Produced {
+    }
+    .Exported {
+        opacity:0.8;
+    }
+    .Consumed {
+    }
+    .Transformed {
+        opacity: 0.5;
+    }
+    .Imported path, .Produced path, .Exported path, .Consumed path, .Transformed path {
+        stroke: white;
+        stroke-width: 1;  
+    }
+    /** Colors for the image icons **/
+    .Coal {
+        fill: rgb(60,60,73);
+    }
+    .Crude {
+        fill: rgb(36,71,157);
+    }
+    .Gas {
+        fill: rgb(255,116,0);
+    }
+    .CRW {
+        fill: rgb(97,175,65);
+    }
+    .Geothermal  {
+        fill: rgb(255,0,0);
+    }
+    .Nuclear  {
+        fill: rgb(115,9,170);
+    }
+    .Hydro {
+        fill: rgb(73,148,208);
+    }
+    .Solar {
+        fill: rgb(239,194,6);
+    }
+    .Peat {
+        fill: rgb(142,89,68);
+    }
+    .Electricity {
+        fill: rgb(175,157,51);
+    }
+    .Oil_Products  {
+        fill: rgb(63,96,122);
+    }
+    /** Styles for the small legend about the units used **/ 
+    .UnitLegend {
+        fill: #707070;
+        font: bold 10px arial,helvetica,sans-serif;
+    }
+
+    /** Styles for the legend box **/
+    #legenddiv {
+        position: absolute;
+        top: 100px;
+        left: 10px;
+        z-index: 10;
+        visibility: hidden;
+    }
+
+    .legend text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+		font-size:12px;
+    }
+
+    .legend .ProdColor {
+    }
+
+    .legend rect.Product {
+    }  
+
+    .legend text.Product {
+        font-weight: normal;
+    }
+
+    .legend rect.Consumed {
+    }
+
+    .legend text.Consumed {
+    }
+
+    .legend polygon.Imported, .legend text.Imported {
+        opacity: 0.8;
+    }
+
+    .legend polygon.Exported, .legend text.Exported {
+        opacity: 0.8;
+    }
+
+    .legend text.Transformed, .legend rect.Transformed {
+        opacity:0.6;
+    }
+
+    .legend text.Produced, .legend rect.Produced {
+        opacity: 1.0;
+    }
+
+

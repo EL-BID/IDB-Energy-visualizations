@@ -1,0 +1,253 @@
+id,axis,name
+1,country,Caribbean
+2,country,Central America
+3,country,Europe
+4,country,Andean
+5,country,LAC
+6,country,North America
+7,country,Southern Cone
+8,country,World
+9,country,Afghanistan
+10,country,Albania
+11,country,Algeria
+12,country,Andorra
+13,country,Angola
+14,country,Antigua & Barbuda
+15,country,Argentina
+16,country,Armenia
+17,country,Australia
+18,country,Austria
+19,country,Azerbaijan
+20,country,Bahamas
+21,country,Bahrain
+22,country,Bangladesh
+23,country,Barbados
+24,country,Belarus
+25,country,Belgium
+26,country,Belgium-Luxembourg
+27,country,Belize
+28,country,Benin
+29,country,Bhutan
+30,country,Bolivia
+31,country,Bosnia and Herzegovina
+32,country,Botswana
+33,country,Brazil
+34,country,Brunei
+35,country,Bulgaria
+36,country,Burkina Faso
+37,country,Burma
+38,country,Burundi
+39,country,Cambodia
+40,country,Cameroon
+41,country,Canada
+42,country,Cape Verde
+43,country,Central African Republic
+44,country,Chad
+45,country,Chile
+46,country,China
+47,country,"China, Hong Kong Special Administrative Region"
+48,country,"China, Macao Special Administrative Region"
+49,country,Colombia
+50,country,Comoros
+51,country,Congo
+52,country,"Congo, DR"
+53,country,Costa Rica
+54,country,Croatia
+55,country,Cuba
+56,country,Curaçao
+57,country,Aruba
+58,country,Netherlands Antilles
+59,country,Netherlands Antilles and Aruba
+60,country,Cyprus
+61,country,Czech Republic
+62,country,Czechoslovakia
+63,country,Denmark
+64,country,Djibouti
+65,country,Dominica
+66,country,Dominican Republic
+67,country,East Timor
+68,country,Ecuador
+69,country,Egypt
+70,country,El Salvador
+71,country,Equatorial Guinea
+72,country,Eritea
+73,country,Estonia
+74,country,Ethiopia
+75,country,Former Ethiopia
+76,country,Fiji
+77,country,Finland
+78,country,France
+79,country,French Guiana
+80,country,Gabon
+81,country,Gambia
+82,country,Georgia
+83,country,Germany
+84,country,Fmr Fed. Rep. of Germany
+85,country,Former Democratic Republic of Germany
+86,country,Ghana
+87,country,Greece
+88,country,Grenada
+89,country,Guatemala
+90,country,Guinea
+91,country,Guinea-Bissau
+92,country,Guyana
+93,country,Haiti
+94,country,Holy See
+95,country,Honduras
+96,country,Hungary
+97,country,Iceland
+98,country,India
+99,country,Indonesia
+100,country,Iran
+101,country,Iraq
+102,country,Ireland
+103,country,Israel
+104,country,Italy
+105,country,Ivory Coast
+106,country,Jamaica
+107,country,Japan
+108,country,Jordan
+109,country,Kazakhstan
+110,country,Kenya
+111,country,Kiribati
+112,country,Kuwait
+113,country,Kyrgyzstan
+114,country,Laos
+115,country,Latvia
+116,country,Lebanon
+117,country,Lesotho
+118,country,Liberia
+119,country,Libya
+120,country,Lithuania
+121,country,Luxembourg
+122,country,Macedonia
+123,country,Madagascar
+124,country,Malawi
+125,country,Malaysia
+126,country,Maldives
+127,country,Mali
+128,country,Malta
+129,country,Marshall Islands
+130,country,Mauritania
+131,country,Mauritius
+132,country,Mexico
+133,country,Micronesia
+134,country,Moldova
+135,country,Mongolia
+136,country,Montenegro
+137,country,Morocco
+138,country,Mozambique
+139,country,Namibia
+140,country,Nauru
+141,country,Nepal
+142,country,Netherlands
+143,country,New Zealand
+144,country,Nicaragua
+145,country,Niger
+146,country,Nigeria
+147,country,North Korea
+148,country,Norway
+149,country,Oman
+150,country,Pakistan
+151,country,Palau
+152,country,Palestine
+153,country,Panama
+154,country,Papua New Guinea
+155,country,Paraguay
+156,country,Peru
+157,country,Philippines
+158,country,Poland
+159,country,Portugal
+160,country,Qatar
+161,country,Romania
+162,country,Russia
+163,country,Former USSR
+164,country,Rwanda
+165,country,Saint Kitts and Nevis
+166,country,"Saint Kitts, Nevis and Anguilla"
+167,country,Saint Lucia
+168,country,Saint Vincent and the Grenadines
+169,country,Samoa
+170,country,San Marino
+171,country,São Tomé and Príncipe
+172,country,Saudi Arabia
+173,country,Senegal
+174,country,Serbia
+175,country,Serbia and Montenegro
+176,country,Seychelles
+177,country,Sierra Leone
+178,country,Singapore
+179,country,Slovakia
+180,country,Slovenia
+181,country,Solomon Islands
+182,country,Somalia
+183,country,South Africa
+184,country,Korea
+185,country,South Sudan
+186,country,Spain
+187,country,Sri Lanka
+188,country,Sudan
+189,country,Former Sudan
+190,country,South Sudan
+191,country,Suriname
+192,country,Swaziland
+193,country,Sweden
+194,country,Switzerland
+195,country,Syria
+196,country,Tajikistan
+197,country,Tanzania
+198,country,Thailand
+199,country,Togo
+200,country,Tonga
+201,country,Trinidad & Tobago
+202,country,Tunisia
+203,country,Turkey
+204,country,Turkmenistan
+205,country,Tuvalu
+206,country,Uganda
+207,country,Ukraine
+208,country,United Arab Emirates
+209,country,United Kingdom
+210,country,United States
+211,country,Uruguay
+212,country,Uzbekistan
+213,country,Vanuatu
+214,country,Venezuela
+215,country,Vietnam
+216,country,Former Democratic Republic of Vietnam
+217,country,Former Republic of Vietnam
+218,country,Yemen
+219,country,Former Democratic Yemen
+220,country,Former Arab Republic of Yemen
+221,country,Former Yugoslavia
+222,country,Zambia
+223,country,Zimbabwe
+224,product,Coal and coal products
+225,product,Peat
+226,product,"Crude, NGL and feedstocks"
+227,product,Gas
+228,product,Nuclear
+229,product,Hydro
+230,product,Geothermal
+231,product,Solar/Wind/Other
+232,product,Combustible renewables and waste
+233,product,Oil Products
+234,product,Electricity
+235,product,Heat
+236,product,All products
+237,product,All primary
+238,flow,Production
+239,flow,Imports
+240,flow,Exports
+241,flow,Oil Products
+242,flow,Electricity
+243,flow,Heat and Waste
+244,flow,Industry
+245,flow,Transport
+246,flow,Residential
+247,flow,Commercial
+248,flow,Other
+249,flow,Total Consumption
+250,flow,Electricity output in GWh
+251,flow,Hydrocarbon Heat and Waste
+252,flow,Electricity Heat and Waste

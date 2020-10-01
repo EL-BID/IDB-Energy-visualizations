@@ -1,0 +1,57 @@
+     /** colors for the chart decorations **/
+    #areachart .axis path{ 
+        fill:none;
+        stroke-width: 1;
+        stroke: #707070; 
+    }
+    #areachart .axis text { 
+        font-size:11px;
+        font-family:arial,helvetica,sans-serif; 
+        fill: #707070;
+        stroke: none;
+    }
+    #areachart .tick { 
+        fill: none;
+        stroke:#707070;
+    }
+    #areachart .gridlines {
+        fill: none;
+    }
+    #areachart .gridlines .tick {
+        stroke: #D0D0D0;
+    }    
+
+    /** Styles for the small legend about the units used **/ 
+    .UnitLegend {
+        fill: #707070;
+        font: bold 10px arial,helvetica,sans-serif;
+    }
+
+    /* Styles for area charts */
+    #areachart .area {
+        opacity: 0.2;
+    } 
+
+    #areachart .line {
+        stroke-width: 3;
+        fill: none;
+    }
+
+    #areachart text.label {
+        font-weight: bold;
+        font-size: 12px;
+        text-transform: capitalize;
+    }
+
+    /* Style for the axis titles */
+    #areachart .axisLegend {
+        font-size: 12px;
+        fill: #707070;
+		font-family:Arial, Helvetica, sans-serif;
+    }
+
+    /** Overwrite some styles for the main visualization element **/
+    svg {
+        clear: both;
+    }
+

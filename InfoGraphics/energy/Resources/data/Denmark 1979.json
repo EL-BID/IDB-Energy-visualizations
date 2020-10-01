@@ -1,0 +1,332 @@
+[
+    {
+        "flow": "Industry", 
+        "product": "Coal and coal products", 
+        "value": 9.89031879452055
+    }, 
+    {
+        "flow": "Residential", 
+        "product": "Coal and coal products", 
+        "value": 3.049259917808219
+    }, 
+    {
+        "flow": "Commercial", 
+        "product": "Coal and coal products", 
+        "value": 0.1864430684931507
+    }, 
+    {
+        "flow": "Industry", 
+        "product": "Combustible renewables and waste", 
+        "value": 1.7628750410958904
+    }, 
+    {
+        "flow": "Residential", 
+        "product": "Solar/Wind/Other", 
+        "value": 0.01727068493150685
+    }, 
+    {
+        "flow": "Residential", 
+        "product": "Combustible renewables and waste", 
+        "value": 3.016927589041096
+    }, 
+    {
+        "flow": "Commercial", 
+        "product": "Combustible renewables and waste", 
+        "value": 0.3424013698630137
+    }, 
+    {
+        "flow": "Other", 
+        "product": "Combustible renewables and waste", 
+        "value": 0.4172276164383562
+    }, 
+    {
+        "flow": "Industry", 
+        "product": "Oil Products", 
+        "value": 44.727720246575345
+    }, 
+    {
+        "flow": "Transport", 
+        "product": "Oil Products", 
+        "value": 62.740301589041096
+    }, 
+    {
+        "flow": "Residential", 
+        "product": "Oil Products", 
+        "value": 102.39568191780822
+    }, 
+    {
+        "flow": "Commercial", 
+        "product": "Oil Products", 
+        "value": 11.099206493150684
+    }, 
+    {
+        "flow": "Other", 
+        "product": "Oil Products", 
+        "value": 35.29953284931507
+    }, 
+    {
+        "flow": "Industry", 
+        "product": "Electricity", 
+        "value": 9.571413589041097
+    }, 
+    {
+        "flow": "Transport", 
+        "product": "Electricity", 
+        "value": 0.22451890410958902
+    }, 
+    {
+        "flow": "Residential", 
+        "product": "Electricity", 
+        "value": 13.26388602739726
+    }, 
+    {
+        "flow": "Commercial", 
+        "product": "Electricity", 
+        "value": 10.36241095890411
+    }, 
+    {
+        "flow": "Other", 
+        "product": "Electricity", 
+        "value": 3.739103287671233
+    }, 
+    {
+        "flow": "Industry", 
+        "product": "Heat", 
+        "value": 1.4214175342465754
+    }, 
+    {
+        "flow": "Residential", 
+        "product": "Heat", 
+        "value": 6.629954876712329
+    }, 
+    {
+        "flow": "Commercial", 
+        "product": "Heat", 
+        "value": 3.266790219178082
+    }, 
+    {
+        "flow": "Electricity output in GWh", 
+        "product": "Coal and coal products", 
+        "value": 13956.0
+    }, 
+    {
+        "flow": "Electricity output in GWh", 
+        "product": "Hydro", 
+        "value": 25.0
+    }, 
+    {
+        "flow": "Electricity output in GWh", 
+        "product": "Solar/Wind/Other", 
+        "value": 6.0
+    }, 
+    {
+        "flow": "Electricity output in GWh", 
+        "product": "Oil Products", 
+        "value": 8124.0
+    }, 
+    {
+        "flow": "Production", 
+        "product": "Crude, NGL and feedstocks", 
+        "value": 8.847912465753424
+    }, 
+    {
+        "flow": "Production", 
+        "product": "Gas", 
+        "value": 0.009057068493150685
+    }, 
+    {
+        "flow": "Production", 
+        "product": "Hydro", 
+        "value": 0.043176712328767124
+    }, 
+    {
+        "flow": "Production", 
+        "product": "Solar/Wind/Other", 
+        "value": 0.027633095890410957
+    }, 
+    {
+        "flow": "Production", 
+        "product": "Combustible renewables and waste", 
+        "value": 10.59305493150685
+    }, 
+    {
+        "flow": "Imports", 
+        "product": "Coal and coal products", 
+        "value": 92.96255430136986
+    }, 
+    {
+        "flow": "Imports", 
+        "product": "Crude, NGL and feedstocks", 
+        "value": 184.39751652054795
+    }, 
+    {
+        "flow": "Exports", 
+        "product": "Coal and coal products", 
+        "value": -0.7621191780821919
+    }, 
+    {
+        "flow": "Exports", 
+        "product": "Crude, NGL and feedstocks", 
+        "value": -11.349249863013698
+    }, 
+    {
+        "flow": "Total Consumption", 
+        "product": "Coal and coal products", 
+        "value": 13.126021780821917
+    }, 
+    {
+        "flow": "Total Consumption", 
+        "product": "Solar/Wind/Other", 
+        "value": 0.01727068493150685
+    }, 
+    {
+        "flow": "Total Consumption", 
+        "product": "Combustible renewables and waste", 
+        "value": 5.539431616438357
+    }, 
+    {
+        "flow": "Imports", 
+        "product": "Oil Products", 
+        "value": 179.90243920547945
+    }, 
+    {
+        "flow": "Imports", 
+        "product": "Electricity", 
+        "value": 7.609463780821917
+    }, 
+    {
+        "flow": "Exports", 
+        "product": "Oil Products", 
+        "value": -38.75640101369863
+    }, 
+    {
+        "flow": "Exports", 
+        "product": "Electricity", 
+        "value": -2.2330995616438356
+    }, 
+    {
+        "flow": "Total Consumption", 
+        "product": "Oil Products", 
+        "value": 256.26244309589043
+    }, 
+    {
+        "flow": "Total Consumption", 
+        "product": "Electricity", 
+        "value": 37.161332767123284
+    }, 
+    {
+        "flow": "Production", 
+        "product": "Electricity", 
+        "value": 115.00398479452056
+    }, 
+    {
+        "flow": "Electricity", 
+        "product": "Coal and coal products", 
+        "value": -74.88707553424658
+    }, 
+    {
+        "flow": "Electricity", 
+        "product": "Hydro", 
+        "value": -0.043176712328767124
+    }, 
+    {
+        "flow": "Electricity", 
+        "product": "Solar/Wind/Other", 
+        "value": -0.01036241095890411
+    }, 
+    {
+        "flow": "Electricity", 
+        "product": "Combustible renewables and waste", 
+        "value": -0.0633191506849315
+    }, 
+    {
+        "flow": "Electricity", 
+        "product": "Oil Products", 
+        "value": -40.000050986301375
+    }, 
+    {
+        "flow": "Oil Products", 
+        "product": "Crude, NGL and feedstocks", 
+        "value": -179.05509120547944
+    }, 
+    {
+        "flow": "Heat and Waste", 
+        "product": "All products", 
+        "value": 83.22572369863016
+    }, 
+    {
+        "flow": "Industry", 
+        "product": "All products", 
+        "value": 67.37374520547945
+    }, 
+    {
+        "flow": "Transport", 
+        "product": "All products", 
+        "value": 62.96482049315069
+    }, 
+    {
+        "flow": "Residential", 
+        "product": "All products", 
+        "value": 128.37298101369862
+    }, 
+    {
+        "flow": "Commercial", 
+        "product": "All products", 
+        "value": 25.257252109589043
+    }, 
+    {
+        "flow": "Other", 
+        "product": "All products", 
+        "value": 39.455843671232884
+    }, 
+    {
+        "flow": "Total Consumption", 
+        "product": "All products", 
+        "value": 312.1064999452055
+    }, 
+    {
+        "flow": "Production", 
+        "product": "All primary", 
+        "value": 19.520834273972604
+    }, 
+    {
+        "flow": "Imports", 
+        "product": "All primary", 
+        "value": 277.3600708219178
+    }, 
+    {
+        "flow": "Exports", 
+        "product": "All primary", 
+        "value": -12.111369041095891
+    }, 
+    {
+        "flow": "Total Consumption", 
+        "product": "All primary", 
+        "value": 18.682724082191783
+    }, 
+    {
+        "flow": "Oil Products", 
+        "product": "All primary", 
+        "value": -179.05509120547944
+    }, 
+    {
+        "flow": "Electricity", 
+        "product": "All primary", 
+        "value": -115.00398479452056
+    }, 
+    {
+        "flow": "Production", 
+        "product": "Oil Products", 
+        "value": 176.07264473972603
+    }, 
+    {
+        "flow": "Hydrocarbon Heat and Waste", 
+        "product": "All products", 
+        "value": 2.982446465753412
+    }, 
+    {
+        "flow": "Electricity Heat and Waste", 
+        "product": "All products", 
+        "value": 80.24327723287675
+    }
+]

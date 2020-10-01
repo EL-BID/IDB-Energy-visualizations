@@ -1,0 +1,39 @@
+.ImageMenuContainer {
+
+    padding: 9px 9px 9px 9px;
+    
+    /* Styles */
+    color: #124D7A;
+    /* Font settings */
+    font-weight: normal;
+
+}
+.ImageMenu {
+    display: table;
+    margin: 0 auto;
+}
+
+.ImageMenu li  {
+    float: left;
+    display: block;
+    text-decoration: none;
+	line-height:12px;
+    opacity: 0.5;
+    padding: 2px 2px;
+    font-size: 10px;
+	min-width:65px;
+}
+
+.ImageMenu img  {
+	width:35px;
+	height:35px;
+}
+
+.ImageMenuContainer {
+    border: 10px;
+}
+
+.ImageMenu li.selected {
+    opacity: 1;
+}
+

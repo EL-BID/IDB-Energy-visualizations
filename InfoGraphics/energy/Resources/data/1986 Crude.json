@@ -1,0 +1,917 @@
+[
+    {
+        "country": "Argentina", 
+        "flow": "Production", 
+        "value": 473.7656937534246
+    }, 
+    {
+        "country": "Argentina", 
+        "flow": "Exports", 
+        "value": -2.028301369863014
+    }, 
+    {
+        "country": "Argentina", 
+        "flow": "Oil Products", 
+        "value": -440.20164383561644
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Production", 
+        "value": 23.108638328767125
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Imports", 
+        "value": 146.91796134246573
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Oil Products", 
+        "value": -173.10777019178082
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Imports", 
+        "value": 547.3428480821917
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Exports", 
+        "value": -11.029059397260275
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Oil Products", 
+        "value": -566.6226960547946
+    }, 
+    {
+        "country": "Bolivia", 
+        "flow": "Production", 
+        "value": 21.969616575342464
+    }, 
+    {
+        "country": "Bolivia", 
+        "flow": "Exports", 
+        "value": -0.8937579452054795
+    }, 
+    {
+        "country": "Bolivia", 
+        "flow": "Oil Products", 
+        "value": -22.219037397260276
+    }, 
+    {
+        "country": "Brazil", 
+        "flow": "Production", 
+        "value": 604.8838501369863
+    }, 
+    {
+        "country": "Brazil", 
+        "flow": "Imports", 
+        "value": 620.8426458082191
+    }, 
+    {
+        "country": "Brazil", 
+        "flow": "Oil Products", 
+        "value": -1222.1777517534247
+    }, 
+    {
+        "country": "Andean", 
+        "flow": "Industry", 
+        "value": 9.827561945205481
+    }, 
+    {
+        "country": "Andean", 
+        "flow": "Commercial", 
+        "value": 0.2431551780821918
+    }, 
+    {
+        "country": "Andean", 
+        "flow": "Production", 
+        "value": 2905.428207780822
+    }, 
+    {
+        "country": "Andean", 
+        "flow": "Exports", 
+        "value": -1359.1116707123288
+    }, 
+    {
+        "country": "Andean", 
+        "flow": "Total Consumption", 
+        "value": 10.070717123287672
+    }, 
+    {
+        "country": "Andean", 
+        "flow": "Electricity", 
+        "value": -0.1215775890410959
+    }, 
+    {
+        "country": "Andean", 
+        "flow": "Oil Products", 
+        "value": -1522.005176273973
+    }, 
+    {
+        "country": "Canada", 
+        "flow": "Production", 
+        "value": 1761.7313803561644
+    }, 
+    {
+        "country": "Canada", 
+        "flow": "Imports", 
+        "value": 362.89251539726035
+    }, 
+    {
+        "country": "Canada", 
+        "flow": "Exports", 
+        "value": -634.7596247945206
+    }, 
+    {
+        "country": "Canada", 
+        "flow": "Oil Products", 
+        "value": -1481.009731369863
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Production", 
+        "value": 5.0297255068493145
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Imports", 
+        "value": 73.86485180821917
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Exports", 
+        "value": -4.968635479452055
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Electricity", 
+        "value": -0.020363342465753425
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Oil Products", 
+        "value": -72.1270995890411
+    }, 
+    {
+        "country": "Chile", 
+        "flow": "Production", 
+        "value": 36.55201898630137
+    }, 
+    {
+        "country": "Chile", 
+        "flow": "Imports", 
+        "value": 53.43708567123288
+    }, 
+    {
+        "country": "Chile", 
+        "flow": "Oil Products", 
+        "value": -84.60063087671233
+    }, 
+    {
+        "country": "China", 
+        "flow": "Industry", 
+        "value": 15.966647808219179
+    }, 
+    {
+        "country": "China", 
+        "flow": "Other", 
+        "value": 19.87142917808219
+    }, 
+    {
+        "country": "China", 
+        "flow": "Production", 
+        "value": 2671.7660825753424
+    }, 
+    {
+        "country": "China", 
+        "flow": "Imports", 
+        "value": 9.322394410958905
+    }, 
+    {
+        "country": "China", 
+        "flow": "Exports", 
+        "value": -582.6088838356164
+    }, 
+    {
+        "country": "China", 
+        "flow": "Total Consumption", 
+        "value": 35.838076986301374
+    }, 
+    {
+        "country": "China", 
+        "flow": "Electricity", 
+        "value": -50.250985698630146
+    }, 
+    {
+        "country": "China", 
+        "flow": "Oil Products", 
+        "value": -1893.0802208767122
+    }, 
+    {
+        "country": "Colombia", 
+        "flow": "Industry", 
+        "value": 9.827561945205481
+    }, 
+    {
+        "country": "Colombia", 
+        "flow": "Commercial", 
+        "value": 0.2431551780821918
+    }, 
+    {
+        "country": "Colombia", 
+        "flow": "Production", 
+        "value": 319.33195205479456
+    }, 
+    {
+        "country": "Colombia", 
+        "flow": "Exports", 
+        "value": -91.71042964383561
+    }, 
+    {
+        "country": "Colombia", 
+        "flow": "Total Consumption", 
+        "value": 10.070717123287672
+    }, 
+    {
+        "country": "Colombia", 
+        "flow": "Electricity", 
+        "value": -0.1215775890410959
+    }, 
+    {
+        "country": "Colombia", 
+        "flow": "Oil Products", 
+        "value": -229.27806224657536
+    }, 
+    {
+        "country": "Costa Rica", 
+        "flow": "Imports", 
+        "value": 12.841437041095888
+    }, 
+    {
+        "country": "Costa Rica", 
+        "flow": "Oil Products", 
+        "value": -12.618986602739724
+    }, 
+    {
+        "country": "Southern Cone", 
+        "flow": "Production", 
+        "value": 1115.2015628767124
+    }, 
+    {
+        "country": "Southern Cone", 
+        "flow": "Imports", 
+        "value": 706.135630328767
+    }, 
+    {
+        "country": "Southern Cone", 
+        "flow": "Exports", 
+        "value": -2.028301369863014
+    }, 
+    {
+        "country": "Southern Cone", 
+        "flow": "Oil Products", 
+        "value": -1772.5080266849316
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Industry", 
+        "value": 2.239485698630137
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Electricity output in GWh", 
+        "value": 364.0
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Production", 
+        "value": 23.230135589041097
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Imports", 
+        "value": 145.9821914520548
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Exports", 
+        "value": -29.033929178082197
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Total Consumption", 
+        "value": 2.239485698630137
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Electricity", 
+        "value": -2.5169412602739722
+    }, 
+    {
+        "country": "Cuba", 
+        "flow": "Oil Products", 
+        "value": -130.34549405479453
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Production", 
+        "value": 74.162650630137
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Imports", 
+        "value": 101.40058923287675
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Exports", 
+        "value": -18.980141342465757
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Oil Products", 
+        "value": -158.1169964109589
+    }, 
+    {
+        "country": "Dominican Republic", 
+        "flow": "Imports", 
+        "value": 37.250276794520545
+    }, 
+    {
+        "country": "Dominican Republic", 
+        "flow": "Oil Products", 
+        "value": -37.108717424657534
+    }, 
+    {
+        "country": "Ecuador", 
+        "flow": "Production", 
+        "value": 299.5437033150685
+    }, 
+    {
+        "country": "Ecuador", 
+        "flow": "Exports", 
+        "value": -201.92218093150686
+    }, 
+    {
+        "country": "Ecuador", 
+        "flow": "Oil Products", 
+        "value": -102.36828980821919
+    }, 
+    {
+        "country": "El Salvador", 
+        "flow": "Imports", 
+        "value": 14.317699041095892
+    }, 
+    {
+        "country": "El Salvador", 
+        "flow": "Oil Products", 
+        "value": -13.913243698630138
+    }, 
+    {
+        "country": "Finland", 
+        "flow": "Imports", 
+        "value": 199.31065254794518
+    }, 
+    {
+        "country": "Finland", 
+        "flow": "Exports", 
+        "value": -12.399227178082192
+    }, 
+    {
+        "country": "Finland", 
+        "flow": "Oil Products", 
+        "value": -189.41535336986303
+    }, 
+    {
+        "country": "France", 
+        "flow": "Production", 
+        "value": 69.22385728767124
+    }, 
+    {
+        "country": "France", 
+        "flow": "Imports", 
+        "value": 1436.321653369863
+    }, 
+    {
+        "country": "France", 
+        "flow": "Exports", 
+        "value": -2.283164465753425
+    }, 
+    {
+        "country": "France", 
+        "flow": "Oil Products", 
+        "value": -1543.2599672328768
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Production", 
+        "value": 111.54486742465755
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Imports", 
+        "value": 1763.8196270684932
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Oil Products", 
+        "value": -2218.8209224657535
+    }, 
+    {
+        "country": "Guatemala", 
+        "flow": "Production", 
+        "value": 5.0297255068493145
+    }, 
+    {
+        "country": "Guatemala", 
+        "flow": "Imports", 
+        "value": 10.446354520547944
+    }, 
+    {
+        "country": "Guatemala", 
+        "flow": "Exports", 
+        "value": -4.968635479452055
+    }, 
+    {
+        "country": "Guatemala", 
+        "flow": "Electricity", 
+        "value": -0.020363342465753425
+    }, 
+    {
+        "country": "Guatemala", 
+        "flow": "Oil Products", 
+        "value": -10.64998794520548
+    }, 
+    {
+        "country": "Honduras", 
+        "flow": "Imports", 
+        "value": 4.873686876712329
+    }, 
+    {
+        "country": "Honduras", 
+        "flow": "Oil Products", 
+        "value": -4.08499895890411
+    }, 
+    {
+        "country": "India", 
+        "flow": "Production", 
+        "value": 639.5945731232878
+    }, 
+    {
+        "country": "India", 
+        "flow": "Imports", 
+        "value": 317.6287211232877
+    }, 
+    {
+        "country": "India", 
+        "flow": "Oil Products", 
+        "value": -941.7602676438356
+    }, 
+    {
+        "country": "Israel", 
+        "flow": "Production", 
+        "value": 0.24484208219178083
+    }, 
+    {
+        "country": "Israel", 
+        "flow": "Imports", 
+        "value": 144.86528019178084
+    }, 
+    {
+        "country": "Israel", 
+        "flow": "Oil Products", 
+        "value": -143.80429783561644
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Production", 
+        "value": 49.754132191780826
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Imports", 
+        "value": 1583.7447621643832
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Oil Products", 
+        "value": -1703.287221890411
+    }, 
+    {
+        "country": "Jamaica", 
+        "flow": "Imports", 
+        "value": 15.861999506849315
+    }, 
+    {
+        "country": "Jamaica", 
+        "flow": "Oil Products", 
+        "value": -15.861999506849315
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Other", 
+        "value": 29.239289671232875
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Production", 
+        "value": 14.746755068493153
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Imports", 
+        "value": 3384.168521506849
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Total Consumption", 
+        "value": 29.239289671232875
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Electricity", 
+        "value": -250.52375597260277
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Oil Products", 
+        "value": -3095.7443478630134
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Industry", 
+        "value": 9.827561945205481
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Commercial", 
+        "value": 0.2431551780821918
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Production", 
+        "value": 7136.68060830137
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Imports", 
+        "value": 845.7516866575343
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Exports", 
+        "value": -2907.4973362465753
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Total Consumption", 
+        "value": 10.070717123287672
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Electricity", 
+        "value": -0.14194093150684933
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Oil Products", 
+        "value": -4808.93682969863
+    }, 
+    {
+        "country": "Mexico", 
+        "flow": "Production", 
+        "value": 2934.471214109589
+    }, 
+    {
+        "country": "Mexico", 
+        "flow": "Exports", 
+        "value": -1447.856864328767
+    }, 
+    {
+        "country": "Mexico", 
+        "flow": "Oil Products", 
+        "value": -1292.2157009315067
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Production", 
+        "value": 102.534972
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Imports", 
+        "value": 963.8254754520548
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Exports", 
+        "value": -26.000052219178084
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Oil Products", 
+        "value": -1386.0665508219179
+    }, 
+    {
+        "country": "Nicaragua", 
+        "flow": "Imports", 
+        "value": 10.819160328767124
+    }, 
+    {
+        "country": "Nicaragua", 
+        "flow": "Oil Products", 
+        "value": -10.57648712328767
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Production", 
+        "value": 14705.615694520546
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Imports", 
+        "value": 5502.343041452054
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Exports", 
+        "value": -2130.890644109589
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Oil Products", 
+        "value": -17102.276113041095
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Production", 
+        "value": 826.0943738082191
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Imports", 
+        "value": 30.516778136986304
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Exports", 
+        "value": -697.8731740000001
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Oil Products", 
+        "value": -149.96736183561643
+    }, 
+    {
+        "country": "Panama", 
+        "flow": "Imports", 
+        "value": 20.566514
+    }, 
+    {
+        "country": "Panama", 
+        "flow": "Oil Products", 
+        "value": -20.283395260273974
+    }, 
+    {
+        "country": "Paraguay", 
+        "flow": "Imports", 
+        "value": 4.469231534246576
+    }, 
+    {
+        "country": "Paraguay", 
+        "flow": "Oil Products", 
+        "value": -4.34789493150685
+    }, 
+    {
+        "country": "Peru", 
+        "flow": "Production", 
+        "value": 184.10369397260274
+    }, 
+    {
+        "country": "Peru", 
+        "flow": "Exports", 
+        "value": -13.429985835616437
+    }, 
+    {
+        "country": "Peru", 
+        "flow": "Oil Products", 
+        "value": -175.10251421917806
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Imports", 
+        "value": 169.3085408219178
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Oil Products", 
+        "value": -175.78767843835618
+    }, 
+    {
+        "country": "Korea", 
+        "flow": "Imports", 
+        "value": 639.3431641643836
+    }, 
+    {
+        "country": "Korea", 
+        "flow": "Oil Products", 
+        "value": -582.8353507123288
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Industry", 
+        "value": 1.821334301369863
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Production", 
+        "value": 42.88459676712329
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Imports", 
+        "value": 964.9697989041096
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Exports", 
+        "value": -1.8550723835616438
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Total Consumption", 
+        "value": 1.821334301369863
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Oil Products", 
+        "value": -1035.282131068493
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Production", 
+        "value": 0.08089106849315067
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Imports", 
+        "value": 332.06197309589044
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Exports", 
+        "value": -10.20215506849315
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Oil Products", 
+        "value": -327.438249260274
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Imports", 
+        "value": 89.05361591780823
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Oil Products", 
+        "value": -89.09598934246576
+    }, 
+    {
+        "country": "Trinidad & Tobago", 
+        "flow": "Production", 
+        "value": 176.54989802739726
+    }, 
+    {
+        "country": "Trinidad & Tobago", 
+        "flow": "Imports", 
+        "value": 12.638928219178084
+    }, 
+    {
+        "country": "Trinidad & Tobago", 
+        "flow": "Exports", 
+        "value": -93.53186435616439
+    }, 
+    {
+        "country": "Trinidad & Tobago", 
+        "flow": "Oil Products", 
+        "value": -97.11010928767124
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Production", 
+        "value": 2648.789866219178
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Imports", 
+        "value": 851.8578176438356
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Exports", 
+        "value": -1820.2494412876713
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Oil Products", 
+        "value": -1662.869682219178
+    }, 
+    {
+        "country": "Uruguay", 
+        "flow": "Imports", 
+        "value": 27.386667315068493
+    }, 
+    {
+        "country": "Uruguay", 
+        "flow": "Oil Products", 
+        "value": -21.180105287671235
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Production", 
+        "value": 10009.413100054793
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Imports", 
+        "value": 5139.450526054794
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Exports", 
+        "value": -48.274154986301376
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Oil Products", 
+        "value": -14329.050680739727
+    }, 
+    {
+        "country": "Venezuela", 
+        "flow": "Production", 
+        "value": 2080.4792418630136
+    }, 
+    {
+        "country": "Venezuela", 
+        "flow": "Exports", 
+        "value": -1051.1553163561643
+    }, 
+    {
+        "country": "Venezuela", 
+        "flow": "Oil Products", 
+        "value": -993.0372726027398
+    }, 
+    {
+        "country": "World", 
+        "flow": "Industry", 
+        "value": 313.90174747945207
+    }, 
+    {
+        "country": "World", 
+        "flow": "Residential", 
+        "value": 0.14338684931506848
+    }, 
+    {
+        "country": "World", 
+        "flow": "Commercial", 
+        "value": 0.2431551780821918
+    }, 
+    {
+        "country": "World", 
+        "flow": "Other", 
+        "value": 189.10624827397262
+    }, 
+    {
+        "country": "World", 
+        "flow": "Production", 
+        "value": 59971.77759865754
+    }, 
+    {
+        "country": "World", 
+        "flow": "Imports", 
+        "value": 25674.477416575344
+    }, 
+    {
+        "country": "World", 
+        "flow": "Exports", 
+        "value": -23926.86496172603
+    }, 
+    {
+        "country": "World", 
+        "flow": "Total Consumption", 
+        "value": 503.3945377808219
+    }, 
+    {
+        "country": "World", 
+        "flow": "Electricity", 
+        "value": -466.74991980821915
+    }, 
+    {
+        "country": "World", 
+        "flow": "Oil Products", 
+        "value": -59327.8850549315
+    }
+]

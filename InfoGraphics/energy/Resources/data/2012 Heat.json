@@ -1,0 +1,392 @@
+[
+    {
+        "country": "Austria", 
+        "flow": "Industry", 
+        "value": 5.568691369863014
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Residential", 
+        "value": 16.467216520547943
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Commercial", 
+        "value": 14.268919397260273
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Other", 
+        "value": 0.19997846575342468
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Industry", 
+        "value": 10.111102410958905
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Residential", 
+        "value": 0.13139778082191783
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Commercial", 
+        "value": 1.8578236438356166
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Other", 
+        "value": 0.7529215342465754
+    }, 
+    {
+        "country": "Canada", 
+        "flow": "Industry", 
+        "value": 11.85238909589041
+    }, 
+    {
+        "country": "Canada", 
+        "flow": "Commercial", 
+        "value": 0.005281616438356165
+    }, 
+    {
+        "country": "China", 
+        "flow": "Industry", 
+        "value": 971.9926216986302
+    }, 
+    {
+        "country": "China", 
+        "flow": "Residential", 
+        "value": 372.1766532328767
+    }, 
+    {
+        "country": "China", 
+        "flow": "Commercial", 
+        "value": 34.141031369863015
+    }, 
+    {
+        "country": "China", 
+        "flow": "Other", 
+        "value": 43.046037506849316
+    }, 
+    {
+        "country": "Croatia", 
+        "flow": "Industry", 
+        "value": 1.0113994246575344
+    }, 
+    {
+        "country": "Croatia", 
+        "flow": "Residential", 
+        "value": 2.766121095890411
+    }, 
+    {
+        "country": "Croatia", 
+        "flow": "Commercial", 
+        "value": 0.7735258630136987
+    }, 
+    {
+        "country": "Croatia", 
+        "flow": "Other", 
+        "value": 0.04556649315068493
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Industry", 
+        "value": 2.22709498630137
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Residential", 
+        "value": 33.31810331506849
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Commercial", 
+        "value": 15.402117315068493
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Other", 
+        "value": 0.7601109589041095
+    }, 
+    {
+        "country": "Finland", 
+        "flow": "Industry", 
+        "value": 31.307293534246575
+    }, 
+    {
+        "country": "Finland", 
+        "flow": "Residential", 
+        "value": 33.39961693150685
+    }, 
+    {
+        "country": "Finland", 
+        "flow": "Other", 
+        "value": 21.328552849315074
+    }, 
+    {
+        "country": "France", 
+        "flow": "Industry", 
+        "value": 3.341114410958905
+    }, 
+    {
+        "country": "France", 
+        "flow": "Residential", 
+        "value": 24.714269808219175
+    }, 
+    {
+        "country": "France", 
+        "flow": "Commercial", 
+        "value": 14.675101808219178
+    }, 
+    {
+        "country": "France", 
+        "flow": "Other", 
+        "value": 7.533934657534246
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Industry", 
+        "value": 101.6807358082192
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Residential", 
+        "value": 67.78715720547945
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Commercial", 
+        "value": 38.47723846575342
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Industry", 
+        "value": 51.86326438356165
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Residential", 
+        "value": 13.940896876712328
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Commercial", 
+        "value": 2.107686273972603
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Other", 
+        "value": 1.0113994246575342
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Residential", 
+        "value": 0.5774031780821918
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Commercial", 
+        "value": 10.198861589041096
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Industry", 
+        "value": 21.223522986301372
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Residential", 
+        "value": 5.035408767123288
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Commercial", 
+        "value": 10.022861260273972
+    }, 
+    {
+        "country": "Netherlands", 
+        "flow": "Other", 
+        "value": 2.219423589041096
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Industry", 
+        "value": 115.54728841095888
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Commercial", 
+        "value": 27.544171945205473
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Industry", 
+        "value": 0.6656242465753425
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Residential", 
+        "value": 1.6405744931506852
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Commercial", 
+        "value": 5.275672109589041
+    }, 
+    {
+        "country": "Norway", 
+        "flow": "Other", 
+        "value": 0.009117315068493151
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Industry", 
+        "value": 6.395937095890411
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Residential", 
+        "value": 0.13716136986301372
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Commercial", 
+        "value": 0.38748589041095893
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Other", 
+        "value": 0.008635342465753424
+    }, 
+    {
+        "country": "Slovenia", 
+        "flow": "Industry", 
+        "value": 1.0981946575342465
+    }, 
+    {
+        "country": "Slovenia", 
+        "flow": "Residential", 
+        "value": 1.6463380821917808
+    }, 
+    {
+        "country": "Slovenia", 
+        "flow": "Commercial", 
+        "value": 0.9212303835616438
+    }, 
+    {
+        "country": "Korea", 
+        "flow": "Industry", 
+        "value": 42.730968000000004
+    }, 
+    {
+        "country": "Korea", 
+        "flow": "Residential", 
+        "value": 37.82022947945205
+    }, 
+    {
+        "country": "Korea", 
+        "flow": "Commercial", 
+        "value": 19.321096794520546
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Industry", 
+        "value": 8.172709013698631
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Residential", 
+        "value": 54.89507287671233
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Commercial", 
+        "value": 27.121662712328767
+    }, 
+    {
+        "country": "Sweden", 
+        "flow": "Other", 
+        "value": 0.1438688219178082
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Industry", 
+        "value": 3.126757095890411
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Residential", 
+        "value": 3.107558520547945
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Commercial", 
+        "value": 1.860695397260274
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Industry", 
+        "value": 15.961767835616438
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Residential", 
+        "value": 1.0425669863013698
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Commercial", 
+        "value": 7.745420219178082
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Industry", 
+        "value": 103.69489931506848
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Commercial", 
+        "value": 27.538890328767124
+    }, 
+    {
+        "country": "World", 
+        "flow": "Industry", 
+        "value": 2611.6627334246573
+    }, 
+    {
+        "country": "World", 
+        "flow": "Residential", 
+        "value": 2212.9297914246577
+    }, 
+    {
+        "country": "World", 
+        "flow": "Commercial", 
+        "value": 660.3022448493151
+    }, 
+    {
+        "country": "World", 
+        "flow": "Other", 
+        "value": 270.93672153424654
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Industry", 
+        "value": 323.3705611506849
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Residential", 
+        "value": 432.4769082739726
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Commercial", 
+        "value": 214.11709189041096
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Other", 
+        "value": 15.559903095890412
+    }
+]

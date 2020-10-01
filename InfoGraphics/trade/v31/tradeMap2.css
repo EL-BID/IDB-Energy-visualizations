@@ -1,0 +1,194 @@
+/* Affects everything 
+body {
+  background: #ddd;
+  margin: 0;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica;
+}
+
+/* The drawing element 
+svg {
+  background: #fff;
+} */
+
+/* Style for the invisible background rectangle that serves as a target
+   for clicks on the map */
+.background {
+  fill: rgb(240,240,255);
+  pointer-events: all;
+}
+
+text {
+  font-family: Helvetica;
+}
+
+/* Style for variant subtitle */
+text.subtitle {
+  fill: #1081cc;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* Typical country polygon */
+.country {
+  fill: #f7f7f7;
+  stroke: #aaa;
+  stroke-width: .5px;
+}
+
+/* Selected country polygon */
+path.country.current {
+  fill: #f8ff45;
+}
+
+/* Color of the partner countries */
+.country.partner {
+  fill: #d5d3d3;
+}
+
+text.title {
+	font-size: 20px;
+}
+
+/* Settings to disable selecting text inside an element */ 
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Product labels*/
+.productlabel {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* Amount labels*/
+.amountlabel{
+  font-size: 10px;
+  font-weight: normal;
+}
+
+/* Margin labels*/
+.marginlabel{
+  font-size: 11px;
+  font-weight: normal;
+}
+
+/* Country labels*/
+text.countrylabel {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+/* General settings for the circles */
+path.trade {
+  stroke-width:1px;
+}
+
+/* Product colors */ 
+.Coal {
+  fill: rgb(60,60,73);
+}
+
+.Crude {
+  fill: rgb(36,71,157);
+}
+
+.Gas {
+ fill: rgb(244,81,37);
+}
+
+.Combustible {
+  fill: rgb(97,175,65);
+}
+  
+.Peat {
+  fill: rgb(142,89,68);
+}
+
+.Electricity {
+  fill: rgb(204,153,0);
+}
+
+.Oil {
+  fill: rgb(13,102,110);
+}
+
+/* Styling to make imports look different from Exports */
+path.Imports {
+  /*stroke: white;*/
+  opacity: 0.8;
+}
+
+path.Exports {
+  /*stroke: black;*/
+  opacity: 0.8;
+}
+
+/* Grid decorations */
+rect.decoration {
+  fill: #F0F0F0;
+}
+
+/* Tooltip stuff */
+.arrow_box {
+    visibility: hidden;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #7d7d7d;
+    border-radius: 3px;
+    padding: 2px;
+    opacity: 0.8;
+    text-align: center;
+    font-size: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.arrow_box:after, .arrow_box:before {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+.arrow_box:after {
+    border-color: rgba(237, 240, 242, 0);
+    border-top-color: #fff;
+    border-width: 5px;
+    margin-left: -5px;
+}
+.arrow_box:before {
+    border-color: rgba(13, 13, 13, 0);
+    border-top-color: #7d7d7d;
+    border-width: 7px;
+    margin-left: -7px;
+}
+
+/* For the variant visualization arrows */
+.variantVisArrow polyline{
+  fill: none;
+  stroke-linejoin: "round";
+  stroke: #666;
+  stroke-width: 6px;
+}
+
+.variantVisArrow text {
+  fill: black;
+  font-size:11px;
+}
+
+.variantVisArrow rect {
+  fill: #f7f7f7;
+}
+
+/* The source legend */
+text.sourceLegend {
+  font-size: 10px;
+  font-weight: normal;
+}

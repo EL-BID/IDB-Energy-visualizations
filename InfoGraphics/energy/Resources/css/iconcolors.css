@@ -1,0 +1,48 @@
+    /** Colors for the image icons **/
+    .Disabled img { /** Color of icon when menu item is disabled **/
+        background-color: rgb(220,220,220);
+    }
+    .Coal {
+        background-color: rgb(60,60,73);
+        fill: rgb(60,60,73);
+    }
+    .Crude {
+        background-color: rgb(36,71,157);
+        fill: rgb(36,71,157);
+    }
+    .Gas {
+        background-color: rgb(255,116,0);
+        fill: rgb(255,116,0);
+    }
+    .CRW {
+        background-color: rgb(97,175,65);
+        fill: rgb(97,175,65);
+    }
+    .Geothermal  {
+        background-color: rgb(255,0,0);
+        fill: rgb(255,0,0);
+    }
+    .Nuclear  {
+        background-color: rgb(115,9,170);
+        fill: rgb(115,9,170);
+    }
+    .Hydro {
+        background-color: rgb(73,148,208);
+        fill: rgb(73,148,208);
+    }
+    .Solar {
+        background-color: rgb(239,194,6);
+        fill: rgb(239,194,6);
+    }
+    .Peat {
+        background-color: rgb(142,89,68);
+        fill: rgb(142,89,68);
+    }
+    .Electricity {
+        background-color: rgb(175,157,51);
+        fill: rgb(175,157,51);
+    }
+    .Oil_Products  {
+        background-color: rgb(63,96,122);
+        fill: rgb(63,96,122);
+    }

@@ -1,0 +1,412 @@
+[
+    {
+        "country": "Austria", 
+        "flow": "Commercial", 
+        "value": 0.05610964383561644
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Production", 
+        "value": 0.08872312328767124
+    }, 
+    {
+        "country": "Austria", 
+        "flow": "Total Consumption", 
+        "value": 0.05610964383561644
+    }, 
+    {
+        "country": "Belgium", 
+        "flow": "Production", 
+        "value": 0.04699232876712329
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Electricity output in GWh", 
+        "value": 1254.0
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Production", 
+        "value": 19.323486575342468
+    }, 
+    {
+        "country": "Central America", 
+        "flow": "Electricity", 
+        "value": -18.59695304109589
+    }, 
+    {
+        "country": "Costa Rica", 
+        "flow": "Electricity output in GWh", 
+        "value": 468.0
+    }, 
+    {
+        "country": "Costa Rica", 
+        "flow": "Production", 
+        "value": 5.753788931506849
+    }, 
+    {
+        "country": "Costa Rica", 
+        "flow": "Electricity", 
+        "value": -5.027255397260274
+    }, 
+    {
+        "country": "Denmark", 
+        "flow": "Production", 
+        "value": 0.0431566301369863
+    }, 
+    {
+        "country": "El Salvador", 
+        "flow": "Electricity output in GWh", 
+        "value": 380.0
+    }, 
+    {
+        "country": "El Salvador", 
+        "flow": "Production", 
+        "value": 6.560410246575342
+    }, 
+    {
+        "country": "El Salvador", 
+        "flow": "Electricity", 
+        "value": -6.560410246575342
+    }, 
+    {
+        "country": "France", 
+        "flow": "Residential", 
+        "value": 2.348411506849315
+    }, 
+    {
+        "country": "France", 
+        "flow": "Other", 
+        "value": 0.09784043835616438
+    }, 
+    {
+        "country": "France", 
+        "flow": "Production", 
+        "value": 2.4462519452054794
+    }, 
+    {
+        "country": "France", 
+        "flow": "Total Consumption", 
+        "value": 2.4462519452054794
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Residential", 
+        "value": 0.172646602739726
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Production", 
+        "value": 0.172646602739726
+    }, 
+    {
+        "country": "Germany", 
+        "flow": "Total Consumption", 
+        "value": 0.172646602739726
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Other", 
+        "value": 4.275779780821917
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Electricity output in GWh", 
+        "value": 3667.0
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Production", 
+        "value": 67.58382501369863
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Total Consumption", 
+        "value": 4.275779780821917
+    }, 
+    {
+        "country": "Italy", 
+        "flow": "Electricity", 
+        "value": -63.30804523287671
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Commercial", 
+        "value": 1.184528
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Other", 
+        "value": 0.9034978082191781
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Electricity output in GWh", 
+        "value": 1777.0
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Production", 
+        "value": 32.77666734246576
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Total Consumption", 
+        "value": 2.088025808219178
+    }, 
+    {
+        "country": "Japan", 
+        "flow": "Electricity", 
+        "value": -30.68866161643836
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Electricity output in GWh", 
+        "value": 7131.0
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Production", 
+        "value": 120.7855273150685
+    }, 
+    {
+        "country": "LAC", 
+        "flow": "Electricity", 
+        "value": -120.05899378082192
+    }, 
+    {
+        "country": "Mexico", 
+        "flow": "Electricity output in GWh", 
+        "value": 5877.0
+    }, 
+    {
+        "country": "Mexico", 
+        "flow": "Production", 
+        "value": 101.46204073972602
+    }, 
+    {
+        "country": "Mexico", 
+        "flow": "Electricity", 
+        "value": -101.46204073972602
+    }, 
+    {
+        "country": "Nicaragua", 
+        "flow": "Electricity output in GWh", 
+        "value": 406.0
+    }, 
+    {
+        "country": "Nicaragua", 
+        "flow": "Production", 
+        "value": 7.009287397260273
+    }, 
+    {
+        "country": "Nicaragua", 
+        "flow": "Electricity", 
+        "value": -7.009287397260273
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Other", 
+        "value": 7.449529205479452
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Electricity output in GWh", 
+        "value": 23651.0
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Production", 
+        "value": 415.766496410959
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Total Consumption", 
+        "value": 7.449529205479452
+    }, 
+    {
+        "country": "North America", 
+        "flow": "Electricity", 
+        "value": -408.3169672054795
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Electricity output in GWh", 
+        "value": 4.0
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Production", 
+        "value": 0.06809871232876713
+    }, 
+    {
+        "country": "Portugal", 
+        "flow": "Electricity", 
+        "value": -0.06809871232876713
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Commercial", 
+        "value": 0.0163067397260274
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Other", 
+        "value": 0.06617082191780821
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Production", 
+        "value": 0.08247756164383561
+    }, 
+    {
+        "country": "Spain", 
+        "flow": "Total Consumption", 
+        "value": 0.08247756164383561
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Industry", 
+        "value": 0.11653695890410959
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Residential", 
+        "value": 1.2933734794520548
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Commercial", 
+        "value": 0.2081318356164384
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Other", 
+        "value": 0.0062254794520547945
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Production", 
+        "value": 1.6242878356164385
+    }, 
+    {
+        "country": "Switzerland", 
+        "flow": "Total Consumption", 
+        "value": 1.6242878356164385
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Other", 
+        "value": 0.015824767123287672
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Production", 
+        "value": 0.015824767123287672
+    }, 
+    {
+        "country": "United Kingdom", 
+        "flow": "Total Consumption", 
+        "value": 0.015824767123287672
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Other", 
+        "value": 7.449529205479452
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Electricity output in GWh", 
+        "value": 17774.0
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Production", 
+        "value": 314.3044556712329
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Total Consumption", 
+        "value": 7.449529205479452
+    }, 
+    {
+        "country": "USA", 
+        "flow": "Electricity", 
+        "value": -306.85492646575346
+    }, 
+    {
+        "country": "World", 
+        "flow": "Industry", 
+        "value": 3.38523498630137
+    }, 
+    {
+        "country": "World", 
+        "flow": "Residential", 
+        "value": 20.09126893150685
+    }, 
+    {
+        "country": "World", 
+        "flow": "Commercial", 
+        "value": 4.484875561643835
+    }, 
+    {
+        "country": "World", 
+        "flow": "Other", 
+        "value": 14.133645753424657
+    }, 
+    {
+        "country": "World", 
+        "flow": "Electricity output in GWh", 
+        "value": 40128.0
+    }, 
+    {
+        "country": "World", 
+        "flow": "Production", 
+        "value": 746.7333675068494
+    }, 
+    {
+        "country": "World", 
+        "flow": "Total Consumption", 
+        "value": 42.09508547945205
+    }, 
+    {
+        "country": "World", 
+        "flow": "Electricity", 
+        "value": -702.7354140273973
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Residential", 
+        "value": 2.348411506849315
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Commercial", 
+        "value": 1.7906888767123288
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Other", 
+        "value": 4.5261043013698625
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Electricity output in GWh", 
+        "value": 3671.0
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Production", 
+        "value": 72.14254279452055
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Total Consumption", 
+        "value": 8.665204684931508
+    }, 
+    {
+        "country": "Europe", 
+        "flow": "Electricity", 
+        "value": -63.376143945205484
+    }
+]

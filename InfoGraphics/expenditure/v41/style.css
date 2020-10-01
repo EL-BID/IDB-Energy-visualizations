@@ -1,0 +1,236 @@
+#thechart .energyText
+{
+  font-family: 'verdana';
+  fill:'black';
+  font-size: 11px;
+  text-anchor:end;
+}
+
+#energyRankText
+{
+  font-family: 'verdana';
+  fill:'black';
+  font-size: 11px;
+}
+
+#guideText
+{
+  font-family: 'verdana';
+  font-weight: 'normal';
+  fill:'black';
+  font-size: 11px;
+}
+
+#quintileGuideText
+{
+  font-family: 'verdana';
+  fill:'black';
+  font-size: 11px;
+}
+
+#thechart  #percentText
+{
+  font-family: 'verdana';
+  font-size: 11px;
+  fill:rgb(119, 119, 119);
+  text-anchor : start;
+}
+
+#percentRectText
+{
+  font-family: 'verdana';
+  font-size: 11px;
+  fill:rgb(119, 119, 119);
+}
+
+#rankText
+{
+  fill:'black';
+  font-family: 'verdana';
+  font-size: 11px;
+}
+
+.rankText
+{
+  fill:'black';
+  font-family: 'verdana';
+  font-size: 11px;
+}
+
+#thechart text
+{
+    text-anchor:middle;
+    font-family: 'verdana';
+    fill:'black';
+    font-size: 11px;
+}
+
+.d3-tip
+{
+  display: inline;
+  position: relative;
+
+  color: #000000;
+  background: #FFFFFF;
+  line-height: 15px;
+  visibility: visible;
+  border-radius: 6px;
+  /*box-shadow: 2px 1px 4px #191919;*/
+  text-align: center;
+  font-family: helvetica, arial;
+}
+
+#percentGuideLine
+{
+ stroke:rgb(119, 119, 119);
+ stroke-width:0.3;
+}
+
+.percentLine
+{
+ stroke:rgb(119, 119, 119);
+ stroke-width:1;
+}
+
+.tipLine
+{
+  opacity : 1;
+  stroke : rgb(0, 0, 0);
+  stroke-width : 1;
+}
+
+.incomeRect
+{
+    fill : rgb(109,122,140);
+    stroke : rgb(0,255,0);
+    stroke-width : 0;
+}
+
+.extremeRectangle
+{
+    fill : rgb(207,219,235);
+    stroke : rgb(255,255,255);
+    stroke-width : 0;
+}
+
+.energyRect
+{
+    fill : rgb(254,223,0);
+    stroke : rgb(255,255,255);
+    stroke-width : 0;
+}
+
+#electricityRect
+{
+    fill : rgb(204,153,0);
+    stroke : rgb(255,255,255);
+}
+
+#electricityPercentRect
+{
+    fill : rgb(204,153,0);
+    stroke : rgb(255,255,255);
+}
+
+#gasRect
+{
+    fill : rgb(244,81,37);
+    stroke : rgb(255,255,255);
+}
+
+#gasPercentRect
+{
+    fill : rgb(244,81,37);
+    stroke : rgb(255,255,255);
+}
+
+#othersRect
+{
+    fill : rgb(155,153,204);
+    stroke : rgb(255,255,255);
+}
+
+#othersPercentRect
+{
+    fill : rgb(155,153,204);
+    stroke : rgb(255,255,255);
+}
+
+.rankRect
+{
+    fill : rgb(207,219,235);
+    stroke : rgb(255,255,255);
+    stroke-width : 0;
+}
+
+.rankTriangle
+{
+    fill : rgb(207,219,235);
+    stroke : rgb(255,255,255);
+    stroke-width : 0;
+}
+
+.rankGapRect
+{
+    fill : rgb(231,237,245);
+    stroke : rgb(255,255,255);
+    stroke-width : 0;
+}
+
+#transportRect
+{
+    fill : rgb(13,102,110);
+    stroke : rgb(255,255,255);
+}
+
+#transportPercentRect
+{
+    fill : rgb(13,102,110);
+    stroke : rgb(255,255,255);
+}
+
+.energyRectVisible
+{
+  opacity: 1;
+  stroke-width: 0;
+}
+
+.percentRectangleVisible
+{
+  opacity: 0.7;
+  stroke-width: 0;
+}
+
+.energyRectSelected
+{
+  opacity: 1;
+}
+.percentRectangleSelected
+{
+  opacity: 0.7;
+}
+
+.productSelected
+{
+  visibility: visible;
+  font-weight: bold;
+  stroke-width: 0;
+}
+
+.productDimmed
+{
+  visibility: hidden;
+  stroke-width: 0;
+}
+
+.rectangleDimmed
+{
+  opacity: 0.2;
+  stroke-width: 0;
+}
+
+/* The source legend */
+text.sourceLegend {
+  font-size: 10px;
+  font-weight: normal;
+}

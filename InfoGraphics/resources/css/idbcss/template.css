@@ -1,0 +1,108 @@
+/*============================================================================================
+==============================================================================================
+=========================================== General CSS ======================================
+==============================================================================================
+=============================================================================================*/
+body { background:#e7e4e2;}
+#templateBody { background:#FFF;padding-bottom:18px;}
+#templateFooter { margin-bottom:0px;}
+#templateNavigation ul li#GlobalNav1 {
+border-left: 0px;
+}
+#templateNavigation ul li#GlobalNav7 {
+border-right: 0px;
+}
+
+h1, h2, h3, h4, h5 {font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+/*============================================================================================
+==============================================================================================
+=========================================== MENU BANNER ======================================
+==============================================================================================
+=============================================================================================*/
+#templateSubHeader {height:53px !important; background:#FFF; border-bottom: #e6e6e6 1px  solid;}
+#templateSubHeader #templateMenu { clear: both; height: 48px; left: 9px; overflow: hidden; width: 555px; padding-left:369px; z-index: 2; position:absolute; margin-bottom:0; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24344.png); background-repeat:no-repeat; background-position: 11px 3px; background-color:#FFF; margin-top:5px; }
+
+#templateSpanish #templateSubHeader #templateMenu {width: 578px; padding-left: 337px; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-27914.png);}
+#templateSpanish #item4 {padding-top: 4px !important;
+padding-bottom: 22px !important;
+width: 85px;
+text-align: center;}
+
+
+#templateSubHeader #templateMenu ul.menu {width:100%; }
+#templateSubHeader #templateMenu ul li {  float: left;height:41px;border-bottom: none; margin-right:5px; }
+
+#templateSubHeader #templateMenu ul li a, {color: #666; font-size: 1.1em; font-family: "Verdana", Arial, sans-serif; width:100%;}
+#templateSubHeader #templateMenu ul li a:hover, 
+#templateSubHeader #templateMenu ul li a.selected, #templateSubHeader #templateMenu ul li a.parentSelected{color: #FFF; background-color:#A6A6A6; background-image: url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24359.png); background-repeat: no-repeat; /*background-position-x: 50%; background-position-y: 33px;*/ background-position:50% 100%; }
+#templateSubHeader #templateMenu ul li a:hover { background-image:none; background-color:#E8E6E4; color:#333;}
+#templateEnglish #templateSubHeader #templateMenu ul li a, #templateSpanish #templateSubHeader #templateMenu ul li a {padding: 13px 13px; height: 15px;}
+
+
+/*============================================================================================
+==============================================================================================
+=========================================== HOME PAGE ========================================
+==============================================================================================
+=============================================================================================*/
+.homeColumn1 {width:210px;}
+.homeColumn4 {width:695px; margin-right: 0px;}
+.homeColumn1Text p { margin-bottom:0px;}
+.homeColumn1Text h2 { color:#0066f9 }
+
+
+.noTemplate #templateBody { padding-bottom:0px;}
+.page8905 #templateContent, .page9343 #templateContent, .page9344 #templateContent, .page9465 #templateContent, .page9478 , .page9479 , .page9338 #templateContent { background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24956.jpg) repeat-y; width: 786px;}
+
+.page9465 #templateContent {background-position: -285px 0px; height:340px;}
+.page9478,  .page9479 {background-position: -285px 0px; float:left;}
+.page9338 #templateContent {background-position: -285px; height: 430px;}
+
+.page8905 .divSize4 { width:823px;}
+.page8905 #templateContent {width: 838px !important; height: 500px; overflow: auto;}
+.page9343 .divSize4, .page9344 .divSize4 { width:700px;}
+.page9343 #templateContent, .page9344 #templateContent  {width:700px !important; background-position: -123px 0px; min-height:500px;}
+
+
+
+
+.productid483 .divSize5 {
+	width: 100% !important;
+}
+
+#imageRotatorA5A569 {
+	position: relative;
+	width: 100% !important;
+}
+.imageRotator.gallery_energy_innovation  {
+	width: 740px !important;
+	position: relative;
+}
+.gallery_energy_innovation .imageSlideData {
+	width: 100%;
+	height: 480px !important;
+	overflow: hidden;
+	float: left;
+	position: relative;
+}
+.gallery_energy_innovation .imageSlidePagingWrapper {
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 10px 0;
+	border-top: 2px solid #8ec0e1;
+	margin-top: 10px;
+}
+.gallery_energy_innovation .imageSlidePagingWrapper .imageSlidePaging{
+	margin: 0 auto;
+	float: none;
+	display: inline-block;
+}
+
+.gallery_energy_innovation.imageRotator .imageSlidePaging li.slideSelected a,
+.gallery_energy_innovation.imageRotator .imageSlidePaging ul li a:hover {
+	background: #0171bb;
+}
+.gallery_energy_innovation.imageRotator .imageSlidePaging ul li a{
+	border-radius: 50%;
+}

@@ -1,0 +1,141 @@
+    /** Colors for the sankey blocks and paths **/
+    .Block {
+        fill: rgb(148,147,143);
+    }
+
+    .Coal {
+        fill: rgb(60,60,73);
+    }
+    .Crude {
+        fill: rgb(50,82,163);
+    }
+    .Gas {
+        fill: rgb(244,81,37);
+    }
+    .CRW {
+        fill: rgb(128,194,80);
+    }
+    .Geothermal  {
+        fill: rgb(181,6,39);
+    }
+    .Nuclear  {
+        fill: rgb(166,106,171);
+    }
+    .Hydro {
+        fill: rgb(71,142,204);
+    }
+    .Solar {
+        fill: rgb(252,210,0);
+    }
+    .Peat {
+        fill: rgb(142,89,68);
+    }
+    .Primary {
+		fill: rgb(144,172,178);
+		
+    }   
+
+    .Primary rect {
+		fill: white;
+		stroke:rgb(153,153,153);
+		stroke-width:2;
+    }   
+
+    .Consumption {
+		fill: rgb(234,234,234);
+    }
+	
+	.Consumption rect {
+		fill: white;
+		stroke:rgb(153,153,153);
+		stroke-width:2;
+		
+	}
+	
+	.Electricity {
+        fill: rgb(204,153,0);
+    }
+    .Oil_Products  {
+        fill: rgb(13,102,110);
+    }
+    .Industry  {
+        fill: rgb(70, 199, 244);
+    }
+    .Commercial {
+        fill: rgb(214, 123, 185);
+    }
+    .Transport {
+        fill: rgb(57, 119, 58);
+    }
+    .Residential {
+        fill: rgb(151, 104, 40);
+    }
+    .Other {
+        fill: rgb(187, 188, 153);
+    }
+    .BlockLabel {
+        font:12px arial,helvetica,sans-serif;
+        fill: black;
+    }
+
+    /** Block amounts: the color of the energy amount legends for the blocks **/
+    .BlockAmount { 
+        font-weight: bold;
+        font-size: 11px;
+        font-style: Verdana,Arial,Helvetica,Sans-serif;
+        fill:#3B3B3B;
+    }
+
+    .SelectedBlockAmount {
+        font-weight: bold;
+        font:12px Verdana,Arial,Helvetica,Sans-serif;
+    }
+	
+	.Electricity .SelectedBlockAmount {
+        fill: rgb(130,102,38);
+    }
+
+    .Consumption .BlockAmount {
+        fill: black;
+        font-weight: normal;
+    }   
+    .Primary .BlockAmount {
+        fill: black;
+        font-weight: normal;
+    }   
+    .Crude .BlockAmount {
+        fill: white;
+    }   
+    .FlowLabelCallout {
+/*        fill: rgb(255,255,255);  */
+    }
+
+    .FlowLabel {
+        font-weight: bold;
+        font:11px arial,helvetica,sans-serif;
+        fill: white;   
+    }    
+    
+	.BlockLabel {
+		font:7px;
+	}
+	.TriangleLegend {
+		font-weight:bold;
+		font:8px Arial,Helvetica,Sans-serif;
+	}
+
+.error
+{
+	padding-top: 60px; 
+	text-align:center; 
+	font-size: 18px; 
+	color: red;
+	display: none;
+}
+
+    .UnitLegend {
+        fill: #404040;
+        font: bold 10px arial,helvetica,sans-serif;
+    }
+
+	

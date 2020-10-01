@@ -1,0 +1,182 @@
+#ifchart text
+{
+	font-family: verdana, arial;
+	font-size: 11px;
+	fill: #051755;
+	font-weight: regular;
+	dominant-baseline: middle;
+}
+
+#ifchart line.separator
+{
+	stroke-width: 2;
+	stroke: #cfdbeb;
+}
+
+#ifchart line.headerseparator
+{
+	stroke-width: 1;
+	stroke: #fff;
+}
+
+#ifchart g.verticalHeader text 
+{
+	text-anchor: end;
+}
+
+#ifchart g.verticalHeader rect 
+{
+	fill: #cfdbeb;
+}
+
+#ifchart g.horizontalHeader text 
+{
+	text-anchor: middle;
+}
+
+g.horizontalHeader rect.background 
+{
+	fill: #cfdbeb;
+}
+
+#ifchart g.cellsArea rect.background
+{
+	fill: #fff;
+}
+
+/*
+.player0 	{ fill: #9C3E3E; }
+.player1 	{ fill: #547C96; }
+.player2 	{ fill: #696F2C; }
+.player3 	{ fill: #CB9A52; }
+.player4 	{ fill: #8B5F7B; }
+.player5 	{ fill: #B44C4C; }
+.player6 	{ fill: #6991A7; }
+.player7 	{ fill: #828D3E; }
+.player8 	{ fill: #D5B352; }
+.player9 	{ fill: #A45D88; }
+.player10 	{ fill: #B9685B; }
+.player11	{ fill: #8BAFBE; }
+.player12 	{ fill: #98AF50; }
+.player13 	{ fill: #D7C750; }
+.player14	{ fill: #BE6E9A; }
+.player15 	{ fill: #D77D63; }
+.player16 	{ fill: #93C0C0; }
+.player17 	{ fill: #B0D161; }
+.player18 	{ fill: #DAD64E; }
+.player19 	{ fill: #D073A2; }
+.player20 	{ fill: #E6AFA4; }
+.player21 	{ fill: #A2CDCC; }
+.player22 	{ fill: #ADDB83; }
+.player23 	{ fill: #DFDF46; }
+.player24 	{ fill: #E174A6; }
+.player25 	{ fill: #DCBEBD; }
+.player26 	{ fill: #B4D7D5; }
+.player27 	{ fill: #C9E2A8; }
+.player28 	{ fill: #E2E090; }
+.player29 	{ fill: #E292BA; }
+*/
+
+.player0 	{ fill: #93C0C0; }
+.player1 	{ fill: #B0D161; }
+.player2 	{ fill: #EEDE54; }
+.player3 	{ fill: #D66464; }
+.player4 	{ fill: #e07cbd; }
+.player5 	{ fill: #547C96; }
+.player6 	{ fill: #696f2c; }
+.player7 	{ fill: #ce9e19; }
+.player8 	{ fill: #833333; }
+.player9 	{ fill: #8a5376; }
+.player10 	{ fill: #A2CDCC; }
+.player11 	{ fill: #addb83; }
+.player12 	{ fill: #f5f688; }
+.player13 	{ fill: #f39191; }
+.player14 	{ fill: #fc9ccd; }
+.player15	{ fill: #6991A7; }
+.player16 	{ fill: #828D3E; }
+.player17 	{ fill: #dfb645; }
+.player18 	{ fill: #9b4747; }
+.player19 	{ fill: #9f5785; }
+.player20 	{ fill: #B4D7D5; }
+.player21 	{ fill: #c9e2a8; }
+.player22 	{ fill: #fcf6ae; }
+.player23 	{ fill: #ecc3c3; }
+.player24 	{ fill: #fbc7e1; }
+.player25 	{ fill: #8BAFBE; }
+.player26 	{ fill: #98af50; }
+.player27 	{ fill: #f4d464; }
+.player28 	{ fill: #b54848; }
+.player29 	{ fill: #c66ca6; }
+
+
+.consumption0 { fill: #F8C6C3; }
+.consumption1 { fill: #FAE19C; }
+.consumption2 { fill: #BDDDBE; }
+.consumption3 { fill: #B8DFE6; }
+.consumption4 { fill: #DBC4E0; }
+.consumption5 { fill: #E8E3E3; }
+.consumption6 { fill: #B1ADAD; }
+.consumption7 { fill: #959192; }
+
+
+.regulator0  { fill: #F08517; } 
+.regulator1  { fill: #FCEA1B; } 
+.regulator2  { fill: #52AE31; } 
+.regulator3  { fill: #a8deea; } 
+.regulator4  { fill: #295CA7; } 
+.regulator5  { fill: #a290c5; } 
+.regulator6  { fill: #EB6294; } 
+.regulator7  { fill: #bed748; } 
+
+
+.publicPrivate
+{
+	fill: none;
+	stroke-width: 2;
+}
+
+.publicPrivate .private
+{
+	stroke: none;
+}
+
+.publicPrivate .public
+{
+	stroke: red;
+}
+
+.marketshare
+{
+	stroke-width: 1.2;
+	stroke: white;
+}
+
+g.popup text
+{
+	font-weight: normal;
+}
+
+g.popup text.h1
+{
+	font-size: 12px;
+	font-weight: bold;
+	fill: white;
+}
+
+g.popup text.h2
+{
+	font-size: 12px;
+	font-weight: normal;
+	fill: white;
+}
+
+g.popup text.h3
+{
+	font-weight: bold;
+}
+
+g.cell.disabled
+{
+	opacity: 0.3;
+}
+

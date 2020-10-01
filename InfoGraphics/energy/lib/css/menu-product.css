@@ -1,0 +1,147 @@
+
+.All_Primary
+{
+	background-image: url(../img/menu-product/All_Primary.png);
+}
+
+ul.ImageMenu li.All_Primary
+{
+	margin-right: 60px;	
+}
+
+ul.ImageMenu li.All_PrimaryGray
+{
+	margin-right: 60px;	
+}
+
+.All_Primary.disabled
+{
+	background-image: url(../img/menu-product/All_PrimaryGray.png);
+}
+
+.Coal 
+{
+	background-image: url(../img/menu-product/Coal.png);
+}
+
+.Coal.disabled
+{
+	background-image: url(../img/menu-product/CoalGray.png);
+}
+
+.Crude 
+{
+	background-image: url(../img/menu-product/Crude.png);
+}
+
+.Crude.disabled 
+{
+	background-image: url(../img/menu-product/CrudeGray.png);
+}
+
+.Gas 
+{
+	background-image: url(../img/menu-product/Gas.png);
+}
+
+.Gas.disabled 
+{
+	background-image: url(../img/menu-product/GasGray.png);
+}
+
+.CRW 
+{
+	background-image: url(../img/menu-product/CRW.png);
+}
+
+.CRW.disabled 
+{
+	background-image: url(../img/menu-product/CRWGray.png);
+}
+
+.Geothermal  
+{
+	background-image: url(../img/menu-product/Geothermal.png);
+}
+
+.Geothermal.disabled  
+{
+	background-image: url(../img/menu-product/GeothermalGray.png);
+}
+
+.Nuclear  
+{
+	background-image: url(../img/menu-product/Nuclear.png);
+}
+
+.Nuclear.disabled  
+{
+	background-image: url(../img/menu-product/NuclearGray.png);
+}
+
+.Hydro 
+{
+	background-image: url(../img/menu-product/Hydro.png);
+}
+
+.Hydro.disabled 
+{
+	background-image: url(../img/menu-product/HydroGray.png);
+}
+
+.Solar 
+{
+	background-image: url(../img/menu-product/Solar.png);	
+}
+
+.Solar.disabled 
+{
+	background-image: url(../img/menu-product/SolarGray.png);	
+}
+
+.Peat 
+{
+	background-image: url(../img/menu-product/Peat.png);
+}
+
+.Peat.disabled 
+{
+	background-image: url(../img/menu-product/PeatGray.png);
+}
+
+.Electricity 
+{
+	background-image: url(../img/menu-product/Electricity.png);
+}
+
+.Electricity.disabled 
+{
+	background-image: url(../img/menu-product/ElectricityGray.png);
+}
+
+.Oil_Products  
+{
+	background-image: url(../img/menu-product/Oil_Products.png);
+}
+
+.Oil_Products.disabled  
+{
+	background-image: url(../img/menu-product/Oil_ProductsGray.png);
+}
+
+ul.ImageMenu li.Oil_Products
+{
+	margin-left: 40px;
+}
+
+ul.ImageMenu li.Crude
+{
+	margin-left: 0px;
+}
+
+ul.ImageMenu li.Electricity span
+{
+	width: 60px;
+	margin: 0px -14px;
+}
+

@@ -1,0 +1,128 @@
+#visualization svg {
+    border: 0px solid #DDD;
+}
+#visualization text {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Chrome/Safari/Opera */
+    -khtml-user-select: none;    /* Konqueror */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;  
+    font-family: Verdana,Helvetica,Arial,sans-serif;
+}
+text.blockAmount, text.pathAmount {
+    font-size: 11px;
+    fill: black;
+}
+text.blockTitle {
+    font-size: 12px;
+    fill: black;
+}
+text.MXText .legend {
+    font-size: 9px;
+}
+text.MXText .amount {
+    font-size: 11px;
+}
+.selected text.blockTitle {
+    font-weight: bold;
+}
+line.importBlockLine, line.exportBlockLine {
+    stroke: white;
+    stroke-width: 1px;
+}
+.linkGroup path.path {
+    stroke: none;
+    opacity: 0.3;
+}
+.linkGroup.selected path.path {
+    opacity: 0.7;
+}
+
+
+.Biogases {
+    fill: #268abc;
+}
+
+.Animal_waste  {
+    fill: #5524ec;
+}
+
+.Vegetal_waste  {
+    fill: #6d43ef;
+}
+
+
+
+.Biogasoline, .dropDownMenu path.Biogasoline{
+     fill: #061e02;
+}
+
+.Biodiesel, .dropDownMenu path.Biodiesel {
+    fill: #114e04;
+}
+
+.Firewood, .dropDownMenu path.Firewood  {
+    fill: #5524ec;
+}
+
+.Bagasse, .dropDownMenu path.Bagasse  {
+    fill: #4962a1;
+}
+
+.Charcoal, .dropDownMenu path.Charcoal  {
+    fill: #3ca157;
+}
+
+
+.Other_solid_biofuels, .dropDownMenu path.Other_solid_biofuels  {
+    fill: #30df0c;
+}
+
+
+.Waste {
+    fill: #6dc458;
+}
+
+.Others {
+    fill: #aad329;
+}
+
+
+.Electricity {
+    fill: rgb(204,153,0);
+}
+
+
+.Industry  {
+    fill: rgb(70, 199, 244);
+}
+.Commercial {
+    fill: rgb(214, 123, 185);
+}
+.Transport {
+    fill: rgb(57, 119, 58);
+}
+.Residential {
+    fill: rgb(151, 104, 40);
+}
+.Other {
+    fill: rgb(187, 188, 153);
+}
+
+.linkGroup path.balloon, .linkGroup text.pathAmount {
+    opacity: 0;
+}
+.linkGroup text.pathAmount {
+    fill: white;
+}
+.linkGroup.selected path.balloon, .linkGroup.selected text.pathAmount {
+    opacity: 1;
+}
+.Consumption,.Total {
+    fill: white;
+}
+.Consumption rect, .Total rect  {
+    stroke: darkgray;
+    stroke-width: 2px;
+}

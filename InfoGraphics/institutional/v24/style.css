@@ -1,0 +1,69 @@
+g.item text 
+{
+	font-size: 9px;
+	fill: #fff
+}
+
+g.item rect
+{
+	fill: #ccc;
+	stroke: #fff;
+}
+
+g.item.yes rect
+{
+	fill: #3f637b;
+}
+
+g.item.electricity.yes rect
+{
+	fill: #ad9c32;
+}
+
+g.item.no rect
+{
+	fill: #c1272d;
+}
+
+text.colHeader 
+{
+	font-size: 10px;
+	font-weight: bold;
+	fill: #999;
+}
+
+text.rowHeader 
+{
+	font-size: 10px;
+	font-weight: bold;
+	fill: #999;
+}
+
+.legend text
+{
+	font-size: 10px;
+	fill: #999;
+	font-weight: bold;
+}
+
+.legend rect.yes
+{
+	fill: #3f637b;
+}
+
+.legend.electricity rect.yes
+{
+	fill: #ad9c32;
+}
+
+.legend rect.no
+{
+	fill: #c1272d;
+}
+
+.legend rect.noData
+{
+	fill: #cccccc;
+}
+
+

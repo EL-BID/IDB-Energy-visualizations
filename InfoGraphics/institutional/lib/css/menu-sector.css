@@ -1,0 +1,22 @@
+ul.ImageMenu li.Electricity
+{
+	background-image: url(../img/menu-sector/Electricity.png);
+	margin-left: 30px;
+}
+
+ul.ImageMenu li.Electricity.disabled
+{
+	background-image: url(../img/menu-sector/ElectricityGray.png);
+	margin-left: 30px;
+}
+
+.Hydrocarbon
+{
+	background-image: url(../img/menu-sector/Hydrocarbon.png);
+}
+
+.Hydrocarbon.disabled
+{
+	background-image: url(../img/menu-sector/HydrocarbonGray.png);
+}
+

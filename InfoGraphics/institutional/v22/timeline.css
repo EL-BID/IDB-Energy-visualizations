@@ -1,0 +1,180 @@
+body {
+    -webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: moz-none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+svg {
+    font-family: arial;
+}
+
+line.timelineLimit
+{
+    stroke: #58595b;
+    stroke-width: 2px;
+}
+
+.decade line {
+    stroke: #fff;
+}
+
+.decade line.firstYear {
+    stroke: white;
+    stroke-width: 2px;
+}
+
+.decade rect {
+    fill: #ccc;
+}
+
+.decade text {
+    fill: #fff;
+    font-size: 11px;
+}
+
+.timeline rect.power
+{
+    stroke: none;
+	fill: #a3802e;
+}
+
+.timeline rect.hydrocarbon
+{
+    stroke: none;
+	fill: #316766;
+}
+
+.timeline rect.both
+{
+    stroke: none;
+	fill: #a31314;
+}
+
+.currentYear text
+{
+    font-size: 21px;
+    font-weight: bold;
+    fill: #fff;
+}
+
+.currentYear rect
+{
+    fill:#999;
+}
+
+.currentYear path
+{
+    fill:#999;
+}
+
+.currentYear path.leftButton
+{
+    fill:#ccc;
+    cursor: pointer;
+}
+
+.currentYear path.rightButton
+{
+    fill:#ccc;
+    cursor: pointer;
+}
+
+path.lastYearButton
+{
+    fill:#ccc;
+    cursor: pointer;
+}
+
+path.firstYearButton
+{
+    fill:#ccc;
+    cursor: pointer;
+}
+
+text.limits
+{
+    font-size: 15px;
+    fill: #ccc;
+    cursor: pointer;
+}
+
+.currentYear line
+{
+    stroke: #999;
+    stroke-width: 2px;
+}
+
+.item text
+{
+    font-size: 12px;
+}
+
+.currentYear path
+{
+    fill:#999;
+}
+
+.item text.instrument
+{
+    fill:#6c6d70;
+}
+
+.power path
+{
+	fill: #a3802e;
+}
+
+.hydrocarbon path
+{
+	fill: #316766;
+}
+
+.both path
+{
+	fill: #a31314;
+}
+
+.power line
+{
+	stroke: #a3802e;
+    stroke-width: 3;
+}
+
+.hydrocarbon line
+{
+	stroke: #316766;
+    stroke-width: 3;
+}
+
+.both line
+{
+	stroke: #a31314;
+    stroke-width: 3;
+}
+
+g.selected circle
+{
+    fill: #1B75BB;    
+    cursor: pointer;    
+}
+
+g.selected text
+{
+    fill: #fff;
+    cursor: pointer;    
+}
+
+g.notSelected circle
+{
+    fill: #eee;    
+    cursor: pointer;    
+}
+
+g.notSelected text
+{
+    fill: #1B75BB;
+    cursor: pointer;    
+}

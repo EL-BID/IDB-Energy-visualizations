@@ -1,0 +1,117 @@
+    /** colors for the chart decorations **/
+    .axis path{ 
+        fill:none;
+        stroke-width: 1;
+        stroke: #707070; 
+    }
+    .axis text { 
+        font-size:11px;
+        font-family:arial,helvetica,sans-serif; 
+        fill: #707070;
+        stroke: none;
+    }
+    .gridlines {
+        fill: none;
+    }
+    .gridlines .tick {
+        stroke: #D0D0D0;
+    }
+    .tick { 
+        fill: none;
+        stroke: #707070;
+    }
+    /** Styles for the small legend about the units used **/ 
+    .UnitLegend {
+        fill: #707070;
+        font: bold 10px arial,helvetica,sans-serif;
+    }
+    /** Styles for the page **/
+    body {
+        margin: 0px;
+        font-family:Verdana, Arial, Helvetica, sans-serif;
+        background-color: #E1E1E1;
+    }
+
+    /* Styles for area charts */
+    .area {
+        opacity: 0.8;
+    } 
+    
+
+    .series0 { /* Industry */
+        fill: rgb(70, 199, 244);
+    }
+    .series0 .line {
+        stroke: rgb(70, 199, 244);
+    }
+    .series1 { /* Transport */
+        fill: rgb(57, 119, 58);
+    }
+    .series1 .line {
+        stroke: rgb(57, 119, 58);
+    }    
+    .series4 { /* Other */
+        fill: rgb(187, 188, 153);
+    }
+    .series4 .line {
+        stroke: rgb(187, 188, 153);
+    }
+    .series3 { /* Commercial */
+        fill: rgb(214, 123, 185);
+    }
+    .series3 .line {
+        stroke: rgb(214, 123, 185);
+    }
+    .series2 { /* Residential */
+        fill: rgb(151, 104, 40);
+    }
+    .series2 .line {
+        stroke: rgb(151, 104, 40);
+    }
+
+    /** Inhibit lines and symbols **/
+    #areachart .line {
+        stroke-width: 0;
+        fill: none;
+    }
+
+    #areachart .symbols {
+        opacity: 0;
+    }
+
+    /** Styles for the series labels **/
+    #areachart text.label {
+        font-weight: bold;
+        font-size: 8pt;
+        text-transform: capitalize;
+		font-family:Arial, Helvetica, sans-serif;
+    }
+
+    /** Make menu two-column **/
+    .DropDownContainer .dropdown ul {float: left; width: 100%; margin: 0 0 1em 0;}
+    .DropDownContainer .dropdown li {float: left; width: 45%;}
+
+    /* Styles for the current value of the menu */
+    .MenuValue{
+        font-size:11px; 
+        color:#1B75BB; 
+        font-weight:normal; 
+        text-decoration:none; 
+    }
+
+    /* Style for selected elements of a multi-valued menu */
+    .dropdown li.selected {
+        font-weight: bold;
+    }
+
+    /* Style for the axis titles */
+    .axisLegend {
+        font-size: 12px;
+        fill: #707070;
+    }
+
+    /** Overwrite some styles for the main visualization element **/
+    svg {
+        clear: both;
+    }
+

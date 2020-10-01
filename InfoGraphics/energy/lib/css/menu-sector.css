@@ -1,0 +1,50 @@
+.Commercial  
+{
+	background-image: url(../img/menu-sector/Commercial.png);
+}
+
+.Commercial.disabled
+{
+	background-image: url(../img/menu-sector/CommercialGray.png);
+}
+
+.Industry
+{
+	background-image: url(../img/menu-sector/Industry.png);
+}
+
+.Industry.disabled
+{
+	background-image: url(../img/menu-sector/IndustryGray.png);
+}
+
+.Others
+{
+	background-image: url(../img/menu-sector/Others.png);
+}
+
+.Others.disabled
+{
+	background-image: url(../img/menu-sector/OthersGray.png);
+}
+
+.Residential
+{
+	background-image: url(../img/menu-sector/Residential.png);
+}
+
+.Residential.disabled
+{
+	background-image: url(../img/menu-sector/ResidentialGray.png);
+}
+
+.Transport
+{
+	background-image: url(../img/menu-sector/Transport.png);
+}
+
+.Transport.disabled
+{
+	background-image: url(../img/menu-sector/TransportGray.png);
+}
+

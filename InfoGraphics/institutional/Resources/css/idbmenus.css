@@ -1,0 +1,236 @@
+        /* 
+         * Styles for the dropdown menus 
+         */
+
+        /* The dropdown menu button frame */
+        .menuButtonFrame {
+            fill: rgb(245,245,245);
+            stroke: rgb(200,200,200); 
+            stroke-width: 0.5;                       
+        }
+
+        /* The dropdown menu button frame when the menu is dropped down */
+        .menuButtonFrame.menuDown {
+            fill: white;
+            stroke: gray;               
+        }
+
+        /* The text inside the dropdown menu button */
+        .menuButtonLabel {
+            font-family: "helvetica";
+            font-weight: normal;
+            font-size: 9pt;
+            color:#4d4d4d;
+
+        }
+
+        /* The part of the text inside the dropdown menu button showing the current value of the menu */
+        .menuButtonLabel .value {
+            font-weight: bold;
+            color:#0071bc;
+            
+        }
+
+        .menuButtonLabel .arrow {
+            font-family: "Monaco"; 
+            font-size: 14pt;
+            fill: #808080;
+        }
+
+        /* The icon (triangle inside a circle) that indicates if the menu is dropped down or not */
+        .menuButtonIcon {
+            fill: #0071bc;
+        }
+
+        /* The frame for the actual dropdown menu */
+        .dropDownMenu path {
+            fill: white;
+            stroke: rgb(180,180,180); 
+            stroke-width: 0.5;      
+        }
+
+        /*
+         * Styles for menu and megamenu components 
+         */
+
+        /* Menu text */
+        .menu {
+            font-family: "verdana";
+            font-size: 8pt;
+        }
+
+        /* Menu entries which are selected */
+        .menu .selected {
+            font-weight: bold;
+        }
+
+        /* Country menu entry selection scheme */
+        #countryMenu .menu .entry.selected .entrybackdrop {
+            opacity: 1;
+            fill: #0071bc;
+        }
+
+        #countryMenu .menu  .entry.selected .label {
+            fill: white;
+            font-weight: bold;
+        }
+
+
+        /* Menu entries which are not active */
+        .menu .inactive {
+            fill: LightGray;
+        }
+
+        /* Menu entries which are labeled 'title', i.e., decoration entries */
+        .menu .menutitle {
+            font-size: 9pt;
+            fill: white;
+            font-weight: bold;
+        }
+
+        /* Separator lines between menu entries or between columns of menu entries */
+        .menu line.separator {
+            stroke: #b3b3b3;
+            stroke-width: 1px;
+            /*stroke-dasharray: 3px, 3px;*/
+        }
+
+        /* Common menu stuff */
+        #latcountrymenu .sample, #unitsMenu .sample, #flowMenu .sample,  #periodTypeMenu .sample {
+            fill: white;
+            stroke: LightGray;
+            stroke-width: 2px;
+        }
+
+        #latcountrymenu .selected .sample, #unitsMenu .selected .sample, #flowMenu .selected .sample, #periodTypeMenu .selected .sample {
+            fill: #0071bc;
+            stroke: black;
+        }
+
+        #latcountrymenu .menu .selected, #unitsMenu .menu .selected, #flowMenu .menu .selected, #periodTypeMenu .menu .selected {
+            font-weight: normal;
+        }
+
+        
+        /* Product menu entry samples/icons */ 
+        #productMenu .menu .sample {
+            opacity: 0.2;
+        }
+
+        /* Menu entry samples/icons which are selected */ 
+        #productMenu .menu .selected .sample {
+            opacity: 1.0;
+        }
+
+        /* Product menu entry samples/icons */ 
+        #sectorMenu .menu .sample {
+            opacity: 0.2;
+        }
+
+        /* Menu entry samples/icons which are selected */ 
+        #sectorMenu .menu .selected .sample {
+            opacity: 1.0;
+        }
+
+        /*
+         *  Timeline styles 
+         */
+
+        /* Regular marks */
+        .timeline .mark {
+            fill: gray;
+            stroke: none;
+        }
+
+        /* Major marks */ 
+        .timeline .major .mark {
+          fill: black;
+        }        
+
+        /* Selected mark */ 
+        .timeline .selected .mark {
+          fill: #0071bc;
+        }
+
+        /* inactive marks */
+        .timeline .inactive .mark {
+            fill: rgb(180,180,180);
+        }
+
+        /* Regular labels */
+        .timeline .label {
+            font-family: helvetica;
+            font-size: 7pt;
+            fill: rgb(100,100,100);
+        }
+
+        /* Major labels */ 
+        .timeline .major .label {
+          fill: black;
+          font-weight: bold;
+        }
+
+        /* Selected labels */
+        .timeline .entry.selected .label {
+            fill: rgb(230,230,230);
+        }
+      
+        /* Inactive labels */
+        .timeline .inactive .label {
+            fill: rgb(180,180,180);
+        }
+
+        /* The interval rectangles */
+        .timeline .interval {
+          fill: black;
+        }
+
+        /* Inactive interval rectangles */
+        .timeline .interval.inactive {
+          fill: rgb(230,230,230);
+        }
+
+        /* The summary box backdrop rectangle */ 
+        .timeline .summary .backdrop {
+          fill: #0071bc;
+        }
+
+        /* The summary box label */ 
+        .timeline .summary .label {
+          font-family: helvetica;
+          font-weight: bold;
+          font-size: 12pt;
+          fill: white;
+        }
+
+        /* the main line */
+        .timeline .line {
+            stroke: none;
+            fill: rgb(230,230,230);
+        }
+
+        /* The background (striped) line */
+        .timeline .backgroundline {
+            stroke: none;
+            fill: rgb(230,230,230);
+            /*mask: url(#maskstripe);            */
+        }
+
+        /* The movement arrows */ 
+        .arrows path {
+            stroke: none;
+            fill: #f020f0;
+        }
+
+        /*
+         * periodTypeMenu styles
+         */ 
+
+        /* Play menu */
+        #playMenu .sample path {
+          fill: #0071bc;
+        }
+
+        #playMenu .selected .sample path {
+          fill: #0071bc;
+        }

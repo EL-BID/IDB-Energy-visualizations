@@ -1,0 +1,586 @@
+﻿/*Style*/
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{
+	display: block;
+}
+/*============================================================================================
+==============================================================================================
+=========================================== Titles ======================================
+==============================================================================================
+=============================================================================================*/
+h2 a , h1 a, #spanh1 a { color:#FFF; text-decoration:none;}
+#spanh1 a {font-weight:bold;}
+#spanh1 a:hover{text-decoration:underline;}
+h2 a:hover , h1 a:hover { color:#FFF;}
+.templatePageTitles {padding-left: 37px; width: 822px !important;  margin-top:5px; margin-bottom:0px !important;}
+.templatePageTitles h1, .templatePageTitles h2 { width: 822px !important; color:#326E85; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:20px; margin-bottom:11px;}
+.templatePageTitles h2 { font-size:16px;}
+
+.page9167 .templatePageTitles h1, .page9167 .templatePageTitles h2  { color:#498b74}
+.page9169 .templatePageTitles h1, .page9169 .templatePageTitles h2  { color:#669d5e}
+
+.titleBlue p ,.titleProgramBlue p, .titleProgramAqua p, .titleProgramGreen p  {padding-left: 80px; font-size: 21px; font-weight: normal; font-family: Verdana, Arial, Helvetica, sans-serif; color:#333;}
+.titleBlue p a,.titleProgramBlue p
+ a, .titleProgramAqua p a, .titleProgramGreen p a { text-decoration:none;}
+.titleBlue p {background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/stripes-24628.png); background-position: 38px 0px;background-repeat:repeat-y; width: 818px;}
+.titleBlue p.small {font-size:15px;}
+
+.titleProgramBlue p.small { font-size:15px;  background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24850.png ); background-position-x: 38px; background-position-y:5px; background-repeat:repeat-y; width: 818px;}
+.titleProgramAqua p.small { font-size:15px;  background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24851.png); background-position-x: 38px; background-position-y:5px; background-repeat:repeat-y; width: 818px;}
+.titleProgramGreen p.small { font-size:15px; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24852.png); background-position-x: 38px; background-position-y:5px; background-repeat:repeat-y; width: 818px;}
+
+
+.titleProgramBlue p {background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24850.png ); background-position: 38px 5px; background-repeat:repeat-y; width: 818px;}
+.titleProgramAqua p {background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24851.png); background-position: 38px 5px; background-repeat:repeat-y; width: 818px;}
+.titleProgramGreen p {background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24852.png); background-position: 38px 5px; background-repeat:repeat-y; width: 818px;}
+
+
+
+.titleWideSpace { margin-top:27px;}
+.titleWideSpace p { margin-bottom:27px; line-height:1.2em; font-size: 19px;}
+.titleWideSpace p.about {font-size: 21px !important;}
+
+.titleSmall p { font-size:12px; background-size: 3%;padding-left: 59px; background-position-y: 4px;}
+.titleWidthHalf p { width:493px;}
+
+.programSize h2 { height:44px;}
+.programSize p { font-size:1.2em !important;}
+
+#templateBody .divider {float: left; border-bottom: #ccc 1px solid; margin-left: 46px; margin-bottom: 12px;}
+#templateBody .dividerTitle {border-bottom: 0px; margin-bottom: 0px;}
+.boxTitle .boxHeader {border-top: 0px; padding:0px;}
+
+.boxTitle .boxHeader h2 {width: 410px; letter-spacing: 0px; margin-left:0px;font-weight: normal; color: #666; font-size:2.4em; padding: 0px;}
+
+
+
+/*============================================================================================
+==============================================================================================
+=========================================== About ======================================
+==============================================================================================
+=============================================================================================*/
+.aboutColumn{ width: 245px !important; }
+/*#templateSpanish .page9166 .aboutColumn{ width: 256px !important; }*/
+.aboutColumnSmall { width: 255px !important; }
+.aboutColumn h2{ color:#fff; font-size:1.7em !important; margin-bottom:9px;}
+.aboutColumn p {color:#FFF; font-size:1.1em; margin-bottom:0px !important; height:233px; overflow:hidden;}
+
+.aboutColumn p a {color:#FFF;}
+.aboutColumnSmall h2{ color:#fff; font-size:1.3em !important; margin-bottom:5px;}
+.aboutColumnSmall h1,.aboutColumnSmall #spanh1{ color:#fff; font-size:2.2em !important;}
+
+.ProgramSmall h1{ font-size:1.8em !important;}
+
+.aboutColumn  table, .aboutColumnSmall table {margin-bottom: 0px; margin-top: 5px; color: #fff; width:245px;}
+.aboutColumn  table td, .aboutColumnSmall table td {font-size: 1.0em; font-weight: bold; padding:0px;}
+.wave1 { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/wave1-24625.png); margin-left:46px !important;}
+.wave2 { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/wave2-24626.png);}
+.wave3 { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/wave3-24627.png);}
+.wave4 { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/wave4-24637.png); margin-left:46px !important;}
+.wave5 { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/wave5-24638.png);}
+.wave6 { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/wave6-24639.png);}
+.wave1, .wave2, .wave3{ height:300px !important; overflow:hidden; margin-right:0px; padding: 18px 18px 5px 18px;}
+/*#templateSpanish .page9166 .wave1, #templateSpanish .page9166 .wave2, #templateSpanish .page9166 .wave3{height:300px !important;}*/
+.wave4, .wave5, .wave6{ height:63px !important; margin-top:9px; overflow:hidden; margin-right:0px; padding: 15px 8px 5px 18px;}
+
+.aboutColumnSmall .EIC_ConnectBox{ float:left; margin-right:10px; }
+
+
+
+.flow img, .inst img {float:left; margin-right:4px;}
+.flow img { margin-top:-2px;}
+.flow a, .inst a, .goWhite a{ color:#FFF; text-decoration:none;}
+.goWhite { text-align:right;}
+.goWhite span , .goWhite img { float:right}
+
+
+
+/*============================================================================================
+==============================================================================================
+=========================================== About PAGE ========================================
+==============================================================================================
+=============================================================================================*/
+
+/*
+@font-face {
+	font-family: "LucidaFax-bold";
+	src: url("_font/LucidaFax-bold.eot");
+	src: local("☺"),
+	url("_font/LucidaFax-bold.woff") format("woff"),
+	url("_font/LucidaFax-bold.ttf") format("truetype"),
+	url("_font/LucidaFax-bold.svg#LucidaFax-bold") format("svg");
+}
+*/
+
+		@font-face {
+			font-family: UNLTLF;
+			src: url(font/UNLTLF_.eot); /* IE9 Compat Modes */
+			src: url(font/UNLTLF_.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+			     url(font/UNLTLF_.woff) format('woff'), /* Modern Browsers */
+			     url(font/UNLTLF_.ttf)  format('truetype'), /* Safari, Android, iOS */
+			     url(font/UNLTLF_.svg#svgFontName) format('svg'); /* Legacy iOS */
+		}
+
+
+	    @font-face {
+			font-family: UNMDLF;
+			src: url(font/UNMDLF_.eot); /* IE9 Compat Modes */
+			src: url(font/UNMDLF_.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+			     url(font/UNMDLF_.woff) format('woff'), /* Modern Browsers */
+			     url(font/UNMDLF_.ttf)  format('truetype'), /* Safari, Android, iOS */
+			     url(font/UNMDLF_.svg#svgFontName) format('svg'); /* Legacy iOS */
+		}
+
+/*
+        @font-face {
+		 font-family: UNLTLF;
+		 src: url(http://www.iadb.org//global/templates/sites/TOPICS/sites/ENERGY/sites/ENERGY_INNOVATION_CENTER/font/UNLTLF_.eot) 
+		}
+
+		@font-face {
+		 font-family: UNLTLF;
+		 src: url("font/UNLTLF_.TTF") 
+		}
+
+		@font-face {
+		 font-family: UNMDLF;
+		 src: url(http://www.iadb.org//global/templates/sites/TOPICS/sites/ENERGY/sites/ENERGY_INNOVATION_CENTER/font/UNMDLF_.eot) 
+		}
+		@font-face {
+		 font-family: UNMDLF;
+		 src: url("font/UNMDLF_.TTF") 
+		}
+*/
+
+
+/*============================================================================================
+==============================================================================================
+=========================================== Search PAGE ========================================
+==============================================================================================
+=============================================================================================*/
+
+.ssubmit_v1 {
+	background: url(http://servicesaws.iadb.org/wmsfiles/images/0x0/searchinnovation-24865.png);	
+	width: 20px;
+	float:right;
+	margin-left:5px;
+}
+
+.divsearch form{
+	float: right;
+}
+
+.width .back img{
+	margin-top: -14px;
+	margin-left: -31px;
+}
+
+.width .back div {
+	margin-top: -1px;
+	margin-left: -16px;
+}
+
+.page9012 .width .back div, .page9167 .width .back div, .page9169 .width .back div {
+	margin-top: -14px;
+	margin-left: -16px;
+}
+
+
+.width{
+	
+	display: block;
+	height: 28px;
+}
+.width .back{
+	float: right;	
+}
+.width .back a{
+	font-size: 1em;
+	color: #666;
+	text-decoration: none;
+}
+
+#searchTable tr td, 
+#searchTableTitle tr td {
+	color: #4c4c4c;
+	border-top: 1px #ccc solid;
+	border-right:1px #ccc solid;
+	padding: 5px;
+	vertical-align: middle;
+}
+
+#searchTableTitle tr td.column4 {
+	border-right:0px;
+}
+
+
+/*============================================================================================
+==============================================================================================
+=========================================== IK - Home ======================================
+==============================================================================================
+=============================================================================================*/
+
+
+	.canvas { width:695px; float:left; padding-left:10px}
+	.type1kw { width:214px; height:214px; margin-left:5px; margin-bottom:15px; float:left; background-color:#F1F1F1; border:2px solid #F1F1F1;}
+	.type2kw { width:436px; height:214px; margin-left:5px; margin-bottom:15px; float:left; background-color:#F1F1F1; border:2px solid #F1F1F1;}
+	.type1 { width:214px; height:214px; margin-left:5px; margin-bottom:15px; float:left; border:2px solid #E5E5E5;}
+	.type2 { width:436px; height:214px; margin-left:5px; margin-bottom:15px; float:left; border:2px solid #E5E5E5;}
+	
+	.space {margin-right: 10px;}
+	.boxType1 { float:left; height:100%; width:100%; overflow:hidden;}
+	h2.title {color: #0066f9; font-size: 1.6em; float:left; width:198px;}
+	.KnowledgeColumn1 h2 a {color: #0066f9;}
+	h2.titleDetail { color:#FFF;}
+	.boxType1Container {height:201px;  overflow:hidden; float:left; width:214px; }
+	.boxType1Container h2 {padding:9px;}
+	.boxType1Container a { text-decoration:none; }
+	.boxType1Container2 {height:196px; padding:5px 9px 9px 10px; overflow:hidden; float:left; background-color:#0066f9; width:195px;}
+	.boxType1Container2 .linkP { color:#FFF !important;}
+	.boxType1Container2 p { margin-bottom:9px; float:left}
+	.boxType1Container2 img {float:left; display:inline; width:22px}
+	.boxType1Container2 img.blueImg {float:left; display:inline; width:30px; margin-top:3px; margin-right:5px;}
+	.boxType1Container2 img.all {float:left; display:inline; width:14px; margin-top:2px;}
+	.boxType1Container2 span { font-size:1.0em; padding-left:8px; color:#FFF; float:left; width:155px;}
+	.none {display:none;}
+	.control {height:8px; float:left}
+	.control img { width:214px;}
+	.boxType2Container { width:202px; height:192px; overflow:hidden; padding:5px; margin-top:9px; margin-left:5px; float:left; position:absolute; z-index:2}
+	.boxType2Container h2 { margin-bottom:2px;}
+	.boxType2Container a { text-decoration:none;}	
+	.boxType2Container p { font-size:1.1em; float:left; margin-top:7px; width: 196px;}
+	.boxType2Left {margin-left: 222px; margin-top: 0px; width: 214px; height: 214px; padding:0px;}
+	.boxType3Container {height:216px;  overflow:hidden; float:left; width:214px; }
+	.boxType3Container h2 {padding:7px 9px 9px 10px; margin-bottom:0px;}
+	.boxType3Container a { text-decoration:none; }
+	.boxType3Container p { font-size:1.0em;}
+	.KnowledgeColumn1 p, .boxType1Container p, .boxType2Container p, .boxType3Container p { color:#4C4C4C;}
+	.EICBox 
+	{
+		width:214px;
+		height:66px;
+		font-weight:bold;
+		color:#FFFFFF;
+		background-color: #b3b3b3;
+	}
+	.EICBox p
+	{
+		color: #FFF;
+		text-align: center;
+		font-size: 1.1em;
+		margin-top: 5px;
+		margin-bottom: 4px;
+	}
+
+	.EIC_Connect{
+		width:30px;
+		height:30px;
+		float:left;
+		margin-left:5px;
+		margin-right:5px;
+		
+	}
+	
+	.general{float: left; width: 170px; margin-left: 5px; font-weight: bold; font-size: 1.1em;}
+	.subgeneral{float: left; width: 170px; margin-left: 5px; font-size: 1.1em; margin-bottom:1px;}
+	.linktype2 { float:left; margin-top:12px;}
+	.borderDouble {border: 2px solid #F1F1F1;}
+	
+	
+	
+	
+	.homeColumn1 h2 a {color: #0066f9;}
+	h2.titleDetail { color:#FFF; margin-bottom:10px;}
+	.borderDouble {background:#F1F1F1;}
+	.borderDouble div.boxInfo { padding-left:9px;}
+	.borderDouble div.boxInfo span { margin-top:4px; margin-left:5px; float:left; font-weight:bold; font-size:1.0em;}
+	.borderDouble div.boxInfo h2 { float:left; margin-top:14px; margin-bottom:19px;}
+	.borderDouble div.boxInfo p, .borderDouble div.boxInfo img { float:left; margin-bottom:0px;}
+	
+	.TextPopUp { padding-left:37px; width: 713px !important;}
+	.TextPopUpAbout1 {padding-left:37px; width: 425px;}
+	.TextPopUpAbout1 p, .TextPopUpAbout2 p {color:#666; font-size:1.1em;}
+	.TextPopUpAbout1 a, .TextPopUpAbout1 a:hover, .TextPopUpAbout2 a, .TextPopUpAbout2 a:hover { text-decoration:none;}
+	.TextPopUpAbout2 { width:325px;}
+	
+	
+	
+/*============================================================================================
+==============================================================================================
+========================= IK - Publication - Multimedia - Events =============================
+==============================================================================================
+=============================================================================================*/
+	
+		
+	
+	a.pubButton { width:192px; height:25px; color:#CCC; padding-top: 7px; font-size:16px; text-align:center; text-decoration:none; float:left; margin-right:5px; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24796.jpg)}
+	a.pubButton:hover { color:#AAA;}
+	a.active { color:#075E91; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24797.jpg );}
+	a.active:hover{color:#075E91;}
+	
+	
+	
+	a.resGlobal { width:192px; height:24px; color:#CCC; padding-top: 7px; font-size:16px; text-align:center; text-decoration:none; float:left; margin-right:5px; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/globalgray-25345.png)}
+	a.resGlobal:hover { color:#AAA;}
+	a.resGlobActive { color:#075E91; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/globalblue-25348.png );}
+	a.resGlobActive:hover{color:#075E91;}
+	
+	
+	
+	a.resRegional { width:339px; height:25px; color:#CCC; padding-top: 6px; font-size:16px; text-align:center; text-decoration:none; float:left; margin-right:5px; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/regionalgray-25347.png)}
+	a.resRegional:hover { color:#AAA;}
+	a.resRegActive { color:#075E91; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/regionalblue-25344.png );}
+	a.resRegActive:hover{color:#075E91;}
+	
+	
+	#searchTable {width:852px; float:left; margin-bottom:8px;}
+	#searchTableTitle {width:852px; float:left; border:1px #c1c1c1 solid; border-radius: 10px 10px 0px 0px; border-collapse: separate; margin-bottom:8px }	
+	
+	#searchTable tr th, #searchTableTitle tr th { height:20px; color:#075E91;}
+
+	#searchTable tr td, #searchTableTitle tr td { color:#4c4c4c;  font-size:0.9em;}
+
+/*	#searchTable tr td.column1 { width:383px; }
+	#searchTable tr td.column2 { width:129px; }
+	#searchTable tr td.column3 { width:97px; }
+	#searchTable tr td.column4 { width:207px; }
+	
+	#searchTable tr th.column1 { width:384px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24803.png ) no-repeat; background-position-x:5px; background-position-y:5px; padding-left:24px;}
+	#searchTable tr th.column2 { width:129px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24804.png ) no-repeat; background-position-x:5px; background-position-y:5px; padding-left:24px;}
+	#searchTable tr th.column3 { width:97px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24805.png ) no-repeat; background-position-x:5px; background-position-y:5px; padding-left:24px;}
+	#searchTable tr th.column4 { width:207px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24806.png ) no-repeat; background-position-x:5px; background-position-y:5px; padding-left:24px;}*/
+
+	#searchTableTitle tr td{ font-size:1.1em;}
+	.page9235 #searchTable tr td.column1 { width:269px; }
+	#searchTableTitle tr td.column1 a { text-decoration:none; font-weight:bold; color:#4c4c4c; }
+	.page9235 #searchTable tr td.column2 { width:84px; }
+	.page9235 #searchTable tr td.column3 { width:85px; -moz-column-width:81px;  }
+	.page9235 #searchTable tr td.column4 { width:430px; }
+	
+	.page9237 #searchTable tr td.column1 { width:276px; }
+	.page9237 #searchTable tr td.column2 { width:79px; }
+	.page9237 #searchTable tr td.column3 { width:84px; }
+	.page9237 #searchTable tr td.column4 { width:430px; }
+	
+	.page9229 #searchTable tr td.column1 { width:278px; }
+	.page9229 #searchTable tr td.column2 { width:80px; }
+	.page9229 #searchTable tr td.column3 { width:84px; 
+	-moz-column-width:81px; 
+	
+	}
+	
+	.page9229 #searchTable tr td.column4 { width:430px; }
+	
+	.page9235 #searchTableTitle tr th.column1 { width:292px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24803.png ) no-repeat; background-position:6px 6px; padding-left:24px;border-right:1px #c1c1c1 solid;}
+	.page9235 #searchTableTitle tr th.column2 { width:73px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24804.png ) no-repeat; background-position:6px 6px; padding-left:22px;border-right:1px #c1c1c1 solid;}
+	.page9235 #searchTableTitle tr th.column3 { width:70px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24805.png ) no-repeat; background-position:5px 6px; padding-left:24px; border-right:1px #c1c1c1 solid;}
+	.page9235 #searchTableTitle tr th.column4 { width:486px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24806.png ) no-repeat; background-position:7px 6px;padding-left:21px;}
+	
+	
+	.page9237 #searchTableTitle tr th.column1 { width:301px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24803.png ) no-repeat; background-position:6px 6px; padding-left:24px;border-right:1px #c1c1c1 solid;}
+	.page9237 #searchTableTitle tr th.column2 { width:72px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24804.png ) no-repeat; background-position:6px 6px; padding-left:22px;border-right:1px #c1c1c1 solid;}
+	.page9237 #searchTableTitle tr th.column3 { width:70px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24805.png ) no-repeat; background-position:5px 6px; padding-left:24px; border-right:1px #c1c1c1 solid;}
+	.page9237 #searchTableTitle tr th.column4 { width:486px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24806.png ) no-repeat; background-position:7px 6px;padding-left:21px;}
+	
+	
+	.page9229 #searchTableTitle tr th.column1 { width:290px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24803.png ) no-repeat; background-position:6px 6px; padding-left:24px;border-right:1px #c1c1c1 solid;}
+	.page9229 #searchTableTitle tr th.column2 { width:72px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24804.png ) no-repeat; background-position:6px 6px; padding-left:22px;border-right:1px #c1c1c1 solid;}
+	.page9229 #searchTableTitle tr th.column3 { width:70px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24805.png ) no-repeat; background-position:5px 6px; padding-left:24px; border-right:1px #c1c1c1 solid;}
+	.page9229 #searchTableTitle tr th.column4 { width:486px; background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24806.png ) no-repeat; background-position:7px 6px;padding-left:21px;}
+	.darkRow { background-color:#f1f1f1}
+	.container { margin-left:43px;}
+	.divControl { float:left; margin-bottom:22px; width:699px; margin-top: 22px;}
+	
+	#pagination{ float:right; margin-right:26px;}
+	#pagination ul li{ font-size:0.9em}
+	#pagination .currentPage {background-color: #f1f1f1; width: 10px; height: 15px;  padding-top: 2px; padding-bottom: 2px; border: 1px #075d90 solid; color:#075d91}
+	.finalPage #pagination {margin-right:36px;}
+	.BoxSearch { width:255px; height:68px; float:left; margin-right:5px; padding: 10px 8px 5px 18px;}
+	.BoxSearch h1{ color:#FFF; font-size:19px}
+	.BoxSearch h2{color:#FFF; font-size:12px; margin-bottom:5px; width:100%;}
+	.box1 { background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/box1-24807.png) no-repeat;}
+	.box2 { background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/box2-24808.png) no-repeat;}
+	.box3 { background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/box3-24809.png) no-repeat;}
+	.pagContainer { float:left; width:100%; margin-bottom: 0px;}
+	a.linkP { color:#333; text-decoration:none;}
+	a.linkP { color:#666;}
+	
+	.imgtumb {float:left; position:relative; margin:0px;}
+/*	.smallimgtumb {float:left; position:absolute; margin:25px 0 0 66px;}*/
+	.smallimgtumb {float:left; position:absolute; margin:58px 0 0 126px;}
+	
+	.imgtumb {float:left; position:relative; margin:0px;}
+	.BoxSearch {cursor:pointer;}
+	.divcoming { width:416px; height:111px; background:#346F84; padding:5px; margin-bottom:18px; float:left;}
+	.divprev { width:416px; height:111px; background:#669D5E; padding:5px; margin-bottom:18px; float:left;}
+	.divcoming img{float:left; margin-right:10px;}
+	.divcoming h2{float:left; margin-right:10px;}
+	.divcoming h1{float:left; margin-right:10px;}		
+	.divprev img{float:left; margin-right:10px;}
+	.divprev h2{float:left; margin-right:10px;}
+	.divprev h1{float:left; margin-right:10px;}
+	.divcoming h2, .divcoming h1 {width:226px;}
+	.divprev h2, .divprev h1 {width:226px;}	
+	#searchTable tr td.nobrd {border-bottom:none !important;border-top:none !important; border-left:1px solid #CCCCCC; border-right:1px solid #CCCCCC;}
+	#searchTable tr td.brd {border-bottom:1px solid #cccccc;border-top:none !important;}
+	
+	.search {float:right;}
+	.divsearch {height:35px;}
+	.ssubmit { background:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/searchinnovation-24865.png); float:right;width: 20px;}
+	.txtsearch{height: 17px; float:right;}
+		
+/*============================================================================================
+==============================================================================================
+========================================  Programs ===========================================
+==============================================================================================
+=============================================================================================*/
+	.programContainer {margin-left:24px;}	
+	.programBox {float:left; width:282px; height:290px; display:inline; margin-top:10px; margin-left:9px;}
+	#blueBox .programBox { background:#346f84;}
+	#aquaBox .programBox { background:#498b74;}
+	#greenBox .programBox { background:#669d5e;}
+	.categoryIconView {float:left; display:inline; width:36px;}
+	.addRight {margin-right:16px;}
+	.addLeft {margin-left:18px;}
+	.programContent {float:left; width:276px; height: 238px; margin-bottom: 9px; }
+	.programContent img { width: 278px; height: 140px; margin-left: 2px; margin-top: 2px;}
+	.programContent img.buttonPopUp {width: 10px;height: 10px;margin-top: 0px;margin-right: 7px;margin-bottom: -2px;}
+	.boxTitle {float:left; width:276px;}
+	.boxTitle h2{margin-top: 8px; margin-bottom: 0px; margin-left:18px; color:#FFF; width:250px; letter-spacing: 1px;}
+	.programContent span{margin-left:18px; width:246px; color:#FFF; font-size:10px; margin-top:8px; float:left; line-height: 1.2em;}
+	.programContent span a, .programContent span a:hover { color:#FFF;}
+	.programContent span.bigSpace {font-size: 12px; line-height: 21px;}
+	.buttonsProgram{ float:left; width:100%; margin-left: 180px; margin-bottom: 10px;}
+	
+	#blueBox .buttonsProgramDetail, #aquaBox .buttonsProgramDetail, #greenBox .buttonsProgramDetail  { float:left; width:102px; height:18px; margin-right:5px; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24842.png); padding-top:5px; color:#fff; 
+	font-weight:bold; text-decoration:none;}
+
+	
+	#blueBox a.buttonsProgramDetail:hover{color:#FFF; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24841.png )}
+	#aquaBox a.buttonsProgramDetail:hover{color:#FFF; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24858.png )}
+	#greenBox a.buttonsProgramDetail:hover{color:#FFF; background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24857.png )}
+	
+	.buttonsProgramDetail img {float: left; margin-top: -8px; width: 30px;}
+	
+	#blueBox .buttonsProgramActive { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24841.png );}
+	#aquaBox .buttonsProgramActive { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24858.png );}
+	#greenBox .buttonsProgramActive { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/-24857.png );}
+	
+	.alumniBox, .regionalBox, .secondmentBox, .EICbox {width: 255px !important; height: 63px !important;margin-top: 9px;overflow: hidden;margin-right: 0px;padding: 15px 8px 5px 18px;}
+	.alumniBox {background:#498b74;}
+	.secondmentBox {background:#346f84;}
+	.regionalBox {background:#669d5e;}
+	.EICbox {background:#b3b3b3;}
+	.alumniBox h2, .secondmentBox h2, .regionalBox h2  {color: #fff; font-size: 1.3em !important; margin-bottom: 5px;}
+	.alumniBox h1, .secondmentBox h1, .regionalBox h1 {color: #fff;font-size: 1.8em !important;}
+	.firstBox {margin-left:43px;}
+	.page9169 .buttonsProgram { margin-left:223px;}
+
+	.EICbox .EIC_ConnectBox{ float:left; margin-right:10px;}
+	
+	.programBoxDouble {width: 570px;}
+	.programBoxDouble img { width:282px; height:282px; margin-top:4px; margin-left:4px;}
+	.programBoxDouble div{ float:left;}
+	.programBoxDouble div.boxTitle {margin-top: 7px;}
+	.programBoxDouble span {margin-left: 18px;width: 253px;color: #FFF;font-size: 12px;margin-top: 8px;float: left; height:238px; overflow:hidden; line-height:21px;}
+	.programContentBig {width: 256px;}
+	.boxTitle img { width:10px; height:10px;  margin-top: 0px; margin-right: 7px;}
+	
+	
+/*============================================================================================
+==============================================================================================
+======================================== Signature ===========================================
+==============================================================================================
+=============================================================================================*/	
+/* typhography set' */
+.eic-signature {
+font-size: 1em;
+color: #B3B3B3;
+font-family: UNMDLF, arial, sans-serif;
+font-weight: regular;
+font-variant: small-caps;
+margin-bottom:0px;
+padding-left: 16px;
+letter-spacing:-1px;
+}
+
+/* Correct color for hightlight 'energy division' as a link */
+.eic-signature a {
+ color: #0066F9 ; text-decoration: none;
+}	
+
+#templateBody { padding-bottom:9px;}
+
+
+
+
+
+input.formatted {padding: 8px; margin: 1px 0px 0px 10px; border: 0px; background-color: #4CA8DC;color: white; float: right; font-size:1.2em}
+
+input.formatted:hover {background-color: #606060;}
+
+
+/*============================================================================================
+==============================================================================================
+======================================== Social Media ========================================
+==============================================================================================
+=============================================================================================*/	
+
+.sharebox {border: 1px solid #E1e1e1; border-radius: 5px; padding: 8px 6px; display: inline; }
+.shareIcon{width:22px; height:22px; margin:2px 2px; vertical-align:middle; }
+
+
+/*============================================================================================
+==============================================================================================
+========================================= IK Menu ============================================
+==============================================================================================
+=============================================================================================*/	
+#subitem {margin:0px 0px 0px 20px !important;}
+.buttonIK {float:left; display:inline;}
+.buttonIK a { height:27px; float:left; color:#006699; padding-top:9px; font-size:13px; font-weight:bold; text-decoration:none; margin-top:19px; margin-right:10px; margin-bottom:4px; background-repeat:no-repeat;}
+.buttonIK a:hover { color:#FFF;}
+a.pubIK { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/pub-ik-30309.png ); width:100px; padding-left:31px; margin-left:15px;}
+a.pubIK:hover{background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/pub-over-ik-30310.png ); }
+#templateSpanish a.pubIK {width:102px; padding-left:29px;}
+a.multIK { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/mult-ik-30311.png ); width:101px; padding-left:42px;}
+a.multIK:hover{background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/mult-over-ik-30312.png);}
+a.eventIK { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/event-ik-30313.png ); width:64px; padding-left:35px;}
+a.eventIK:hover{ background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/event-over-ik-30314.png );}
+a.globalIK { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/global-ik-30315.png); width:146px; padding-left:34px;}
+a.globalIK:hover{ background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/global-over-ik-30317.png);}
+a.stakeIK { background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/stake-ik-30318.png ); width:275px; padding-left:34px;}
+a.stakeIK:hover{ background-image:url(http://servicesaws.iadb.org/wmsfiles/images/0x0/stake-over-ik-30319.png);}
+
+
+
+#templateTopBar {background-color: #FFF; margin: 0px; width: 932px; padding: 0px 9px;}
+#templateTopBar #breadCrumb {margin-left:16px !important;}
+
+
+.gallery_energy_innovation .imageSlideData {
+	width: 100%;
+	height: 480px !important;
+	overflow: hidden;
+	float: left;
+	position: relative;
+}
+.gallery_energy_innovation .imageSlidePagingWrapper {
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 10px 0;
+	border-top: 2px solid #8ec0e1;
+	margin-top: 10px;
+}
+.gallery_energy_innovation .imageSlidePagingWrapper .imageSlidePaging{
+	margin: 0 auto;
+	float: none;
+	display: inline-block;
+}
+
+.gallery_energy_innovation.imageRotator .imageSlidePaging li.slideSelected a,
+.gallery_energy_innovation.imageRotator .imageSlidePaging ul li a:hover {
+	background: #0171bb;
+}
+.gallery_energy_innovation.imageRotator .imageSlidePaging ul li a{
+	border-radius: 50%;
+}

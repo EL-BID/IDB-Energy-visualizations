@@ -1,0 +1,95 @@
+/** Styles for the small legend about the units used **/ 
+.UnitLegend {
+	fill: #707070;
+	font: bold 9px arial,helvetica,sans-serif;
+}
+
+.Commercial {
+	stroke: rgb(253,157,205);
+}
+
+.Industry {
+	stroke: rgb(70,199,244);
+}
+
+.Other {
+	stroke: rgb(187,188,153);
+}
+
+.Residential {
+	stroke: rgb(151,104,40);
+}
+
+.Transport {
+	stroke: rgb(57,119,58);
+}
+
+text.sectorName {
+	font-size: 11px;
+	fill: #999;
+}
+
+text.sectorValue {
+	stroke: none;
+	font-size: 12px;
+	font-weight: bold;
+	fill: #666;
+}
+
+text.sectorPercentile {
+	stroke: none;
+	font-size: 12px;
+	font-weight: bold;
+	fill: #666;
+}
+
+text.pielabel {
+	stroke: none;
+	font-size: 12px;
+	font-weight: bold;
+	fill: #000;
+}
+
+text.sectorTopText {
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+text.sectorTopTextPercentile {
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+.Crude {
+        fill: rgb(50, 82, 163);
+}
+
+.Coal {
+	fill: rgb(60,60,73);
+}
+
+.Oil_Products {
+	
+	fill: rgb(13,102,110);
+}
+
+.Gas {
+	fill: rgb(244, 81, 37);
+}
+
+.CRW {
+	fill: rgb(128,194,80);
+}
+
+.Solar {
+	fill: rgb(252,210,0);
+}
+
+.Electricity {
+	fill: rgb(204, 153, 0);
+}
+
+.Geothermal {
+	fill: rgb(181, 6, 39);
+}
+
