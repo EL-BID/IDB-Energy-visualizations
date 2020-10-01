@@ -1,4 +1,5 @@
 # IDB Energy visualizations
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/DB-Energy-visualizations/readme?useReferer)](https://github.com/EL-BID/IDB-Energy-visualizations/)
 
 ![Energy Flow Image](InfoGraphics/img/docimg.png) 
 
