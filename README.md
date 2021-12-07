@@ -1,6 +1,8 @@
 # IDB Energy visualizations
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/DB-Energy-visualizations/readme?useReferer)](https://github.com/EL-BID/IDB-Energy-visualizations/)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_IDB-Energy-visualizations&metric=alert_status)](https://sonarcloud.io/dashboard?id=EL-BID_IDB-Energy-visualizations)
+![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
+![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/DB-Energy-visualizations/readme&dt=&tid=UA-4677001-16)
+
 ![Energy Flow Image](InfoGraphics/img/docimg.png) 
 
 This software contains a set of interactive visualizations developped for the [Interamerican Development Bank](iadb.org) (roughly) from 2010 to 2015. It also contains data pertaining to characteristics of the energy sector in several countries and regions. Although most of the original data was collected from data published by the [IEA](https://www.iea.org/), these datasets were processed by economists and technical staff of the IDB.
