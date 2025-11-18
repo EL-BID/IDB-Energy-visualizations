@@ -70,5 +70,4 @@ Once the PHP local server is ready to receive connections, just open your browse
 - Renato Campos Mauro
 
 ## License
-
-This work is licensed under a Creative Commons IGO 3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+See the [LICENSE.md](LICENSE.md) file for details.
